@@ -1,12 +1,24 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "id": 20767,
+    "name": "Armageddon Tarnish",
+    "author": "Bangaled",
+    "creators": ["Bangaled", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=VUXzNzYEueA",
+    "percentToQualify": "42",
     "password": "Free To Copy",
-    "records": [
+   "records": [
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=Dn76l_h2pvA",
+            "percent": 100,
+            "hz": 480
+        }
+        {
+            "user": "njacked",
+            "link": "https://www.youtube.com/watch?v=qL0euI-teFM",
+            "percent": 84,
+            "hz": 240
+        }
     ]
 }
