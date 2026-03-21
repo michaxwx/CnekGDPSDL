@@ -1,0 +1,36 @@
+{
+    "id": 5036,
+    "name": "Tough Wave",
+    "author": "Eye",
+    "creators": ["Cnek"],
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=av3t8cvhNUk",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://www.youtube.com/watch?v=oXNMigQUlII",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/L-s7UPDeYj0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/iivZww61KQU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kaza",
+            "link": "https://www.youtube.com/watch?v=ncLgRU_-1RA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
