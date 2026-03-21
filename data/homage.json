@@ -1,0 +1,18 @@
+{
+    "id": 5220,
+    "name": "Homage",
+    "author": "michaxwx",
+    "creators": ["michaxwx"],
+    "verifier": "michaxwx",
+    "verification": "https://www.youtube.com/watch?v=QWP_h5eVrM8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/YjTDHUlwU5c",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
