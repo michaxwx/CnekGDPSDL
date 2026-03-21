@@ -1,0 +1,48 @@
+{
+    "id": 4712,
+    "name": "starree corridore",
+    "author": "Dubby",
+    "creators": ["Dubby"],
+    "verifier": "Dubby",
+    "verification": "https://www.youtube.com/watch?v=kVnSGUZxL0I",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/823bAaaa25g",
+            "percent": 100,
+            "hz": 240}
+         },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/tkxuHuNjX-0",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/EC4B4BbaXaQ",
+            "percent": 100,
+            "hz": 300
+        },
+       {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/951898757295910942/957350625040039996/2022-02-22_17-56-13_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Avurity",
+            "link": "https://youtu.be/Za-1D8u4f7Q&t",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Mone",
+            "link": "https://youtu.be/Za-1D8u4f7Q&t",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
