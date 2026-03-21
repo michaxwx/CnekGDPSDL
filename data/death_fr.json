@@ -1,0 +1,42 @@
+{
+    "id": 2834,
+    "name": "death fr",
+    "author": "Exenity",
+    "creators": ["Exenity"],
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=DwicucE0grw",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://www.youtube.com/watch?v=xvABCIWByGs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "sauci",
+            "link": "https://www.youtube.com/watch?v=Bfvzl1MWXZw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=zmgZAfpcxMs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mone",
+            "link": "https://www.youtube.com/watch?v=ZF11ttgBWII",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=Yv4rCY8QPKM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
