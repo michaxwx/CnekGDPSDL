@@ -1,0 +1,37 @@
+M
+{
+    "id": 3454,
+    "name": "Rukkus",
+    "author": "Erena",
+    "creators": ["Erena"],
+    "verifier": "Erena",
+    "verification": "https://cdn.discordapp.com/attachments/698010644934426645/701868003079225394/mobizen_20200420_145036.mp4.",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/FO03z13sZm0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CoolVLAD",
+            "link": "https://www.youtube.com/watch?v=55esyuHVetQ&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/r--W3hxKSr0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://www.youtube.com/watch?v=abMSb0iKy6I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
