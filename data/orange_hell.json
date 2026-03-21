@@ -1,0 +1,30 @@
+{
+    "id": 381,
+    "name": "Orange Hell",
+    "author": "Erena",
+    "creators": ["Erena"],
+    "verifier": "Erena",
+    "verification": "https://cdn.discordapp.com/attachments/698010644934426645/721770654461984789/mobizen_20200614_125559.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+"records": [
+        {
+        "user": "Skell",
+        "link": "https://youtu.be/-eWGdMf-kLo",
+        "percent": 100,
+        "hz": 0
+        },
+        {
+        "user": "zekekGD",
+        "link": "https://youtu.be/rMln5WvZXb8",
+        "percent": 100,
+        "hz": 60
+        },
+        {
+        "user": "michaxwx",
+        "link": "https://www.youtube.com/watch?v=lswx2IjhXf8",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
