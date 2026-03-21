@@ -1,0 +1,36 @@
+{
+    "id": 1693,
+    "name": "Dark Fire",
+    "author": "Exenity",
+    "creators": ["Exenity"],
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=7kkADfnqrmc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "piesy",
+            "link": "https://www.youtube.com/watch?v=OEnLyH6U5Q0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "njacked",
+            "link": "https://www.youtube.com/watch?v=KkIHgmItOlA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=QMTKGO__uvo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=38eSwKyjCYY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
