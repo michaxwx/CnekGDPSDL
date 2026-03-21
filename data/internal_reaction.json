@@ -1,0 +1,54 @@
+{
+    "id": 387,
+    "name": "Internal Reaction",
+    "author": "CnekYT",
+    "creators": ["CnekYT"],
+    "verifier": "CnekYT",
+    "verification": "https://www.youtube.com/watch?v=p4Og9kVf8Pg",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+"records": [
+    {
+        "user": "TFIBB",
+        "link": "https://www.youtube.com/watch?v=wCpqCgfmrQk",
+        "percent": 100,
+        "hz": 144
+    },
+    {
+        "user": "BentaiInTime",
+        "link": "https://youtu.be/DFKEdI9Tjeo",
+        "percent": 100,
+        "hz": 75
+    },
+    {
+        "user": "Daxy",
+        "link": "https://youtu.be/TmiO4atBhQU",
+        "percent": 100
+        "hz": 0
+    },
+    {
+        "user": "Bangaled",
+        "link": "https://youtu.be/EUNfhilrd2I",
+        "percent": 100
+        "hz": 0
+    },
+    {
+        "user": "Yosem",
+        "link": "https://youtu.be/Ah8UxyuSJ3o",
+        "percent": 100
+        "hz": 0
+    },
+    {
+        "user": "Deadblue",
+        "link": "https://youtu.be/rD5SB4tVsmg",
+        "percent": 100
+        "hz": 0
+    },
+    {
+        "user": "michaxwx",
+        "link": "https://www.youtube.com/watch?v=5L9oPc2fkUI&feature=youtu.be",
+        "percent": 100
+        "hz": 240
+    }
+]
+}
