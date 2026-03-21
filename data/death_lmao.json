@@ -1,0 +1,18 @@
+{
+    "id": 20977,
+    "name": "Death LMAO",
+    "author": "Exenity",
+    "creators": ["Exenity"],
+    "verifier": "Exenity",
+    "verification": "https://www.youtube.com/watch?v=RhvRL7TmRFc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://www.youtube.com/watch?v=MqXVaXwr4tE&t=277s",
+            "percent": 100,
+            "hz": 480 
+        }
+    ]
+}
