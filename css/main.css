@@ -51,7 +51,7 @@ body {
 
 header,
 main {
-background-color: color-mix(in srgb, var(--color-primary) 85%, black);
+background-color: var(--color-primary);
     color: var(--color-on-background);
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
