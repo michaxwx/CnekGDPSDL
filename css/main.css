@@ -9,6 +9,21 @@
     --color-on-error: white;
 }
 
+main {
+    background-image:
+        linear-gradient(
+            45deg,
+            color-mix(in srgb, var(--color-on-background) 7%, transparent) 1px,
+            transparent 1px
+        ),
+        linear-gradient(
+            -45deg,
+            color-mix(in srgb, var(--color-on-background) 7%, transparent) 1px,
+            transparent 1px
+        );
+    background-size: 28px 28px;
+}
+
 main.dark,
 header.dark {
     color-scheme: dark;
