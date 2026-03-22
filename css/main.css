@@ -13,13 +13,13 @@ main {
     background-image:
         linear-gradient(
             45deg,
-            color-mix(in srgb, var(--color-on-background) 7%, transparent) 1px,
-            transparent 1px
+            color-mix(in srgb, var(--color-on-background) 18%, transparent) 1.5px,
+            transparent 1.5px
         ),
         linear-gradient(
             -45deg,
-            color-mix(in srgb, var(--color-on-background) 7%, transparent) 1px,
-            transparent 1px
+            color-mix(in srgb, var(--color-on-background) 18%, transparent) 1.5px,
+            transparent 1.5px
         );
     background-size: 28px 28px;
 }
