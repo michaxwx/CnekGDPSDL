@@ -1,0 +1,30 @@
+{
+    "id": 5831,
+    "name": "Justinfishing7626",
+    "author": "michaxwx",
+    "creators": ["michaxwx"],
+    "verifier": "michaxwx",
+    "verification": "https://www.youtube.com/watch?v=VUXzNzYEueA",
+    "percentToQualify": "42",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/oGew-JvAp-c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/wXWrFOFlLL4",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/Yqe97jXpxa4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
