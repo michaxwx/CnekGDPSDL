@@ -1,0 +1,24 @@
+{
+    "id": 20033,
+    "name": "Alone",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson", "tanyajohnson"],
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=gMG3M1RZ360",
+    "percentToQualify": "34",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=fKVncn3BR3k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://youtu.be/vzbe4yZGDpE?si=ToxA3r-Pp3J66ieK",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
