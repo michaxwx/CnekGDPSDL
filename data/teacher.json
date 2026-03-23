@@ -1,0 +1,18 @@
+{
+  "id": 5884,
+  "name": "Teacher Records",
+  "author": "njacked",
+  "creators": ["njacked"],
+  "verifier": "njacked",
+  "verification": "https://www.youtube.com/watch?v=3tQ0y-LVeQ8",
+  "percentToQualify": 0,
+  "password": "Free to Copy",
+  "records": [
+    {
+      "user": "Kaza",
+      "link": "https://www.youtube.com/watch?v=6ZH7ls3DBfY",
+      "percent": 100,
+      "hz": 0
+    }
+  ]
+}
