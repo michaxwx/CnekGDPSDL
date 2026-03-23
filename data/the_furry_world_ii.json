@@ -1,0 +1,42 @@
+{
+  "id": 5546,
+  "name": "The Furry World II",
+  "author": "jayneanderson",
+  "creators": ["jayneanderson", "TFIBB", "Gelforce", "Brad"],
+  "verifier": "jayneanderson",
+  "verification": "https://youtu.be/4n0Ewk9-nfU",
+  "percentToQualify": 65,
+  "password": "Free to Copy",
+  "records": [
+    {
+      "user": "Jamar",
+      "link": "https://youtu.be/G3n3KNZFjLo",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "CookieIsMine",
+      "link": "https://youtu.be/nEmMW6oTQT0",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Brad",
+      "link": "https://youtu.be/AKRFUrzh-eQ",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "TFIBB",
+      "link": "https://youtu.be/xoW7xYjw8tY",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Rulmy",
+      "link": "https://www.youtube.com/watch?v=fbo0KFxHs3c",
+      "percent": 100,
+      "hz": 480
+    }
+  ]
+}
