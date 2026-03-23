@@ -1,0 +1,30 @@
+{
+    "id": 6675,
+    "name": "Night City",
+    "author": "Kaza",
+    "creators": ["Kaza"],
+    "verifier": "Kaza",
+    "verification": "https://youtu.be/u0IPM4nJRiI",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+      {
+        "user": "jayneanderson",
+        "link": "https://youtu.be/LtbG-UgsDHI",
+        "percent": 100,
+        "hz": 0
+      },
+      {
+        "user": "Gelforce",
+        "link": "https://youtu.be/8ueXyFAngpE",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Bitto",
+        "link": "https://youtu.be/thv8wBBstDM",
+        "percent": 69,
+        "hz": 360
+      }
+    ]
+  }
