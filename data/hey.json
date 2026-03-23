@@ -39,6 +39,12 @@
         "hz": 165
         },
         {
+        "user": "michaxwx",
+        "link": "https://youtube.com/shorts/0Te0pM0OaLc",
+        "percent": 45,
+        "hz": 240
+        },
+        {
         "user": "Rulmy",
         "link": "https://youtu.be/OcFN7yLLMko",
         "percent": 45,
@@ -60,12 +66,6 @@
         "user": "jmp422",
         "link": "https://youtu.be/z_HLDoKiLnY",
         "percent": 39,
-        "hz": 240
-        },
-        {
-        "user": "michaxwx",
-        "link": "https://cdn.discordapp.com/attachments/963910182444871730/1092695170744598589/8mb.video-aZs-4UFHJ5UG.mp4",
-        "percent": 36,
         "hz": 240
         }
     ]
