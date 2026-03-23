@@ -1,0 +1,72 @@
+{
+    "id": 19671,
+    "name": "Hey",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=OumrY39GT6I",
+    "percentToQualify": "36",
+    "password": "Free to Copy",
+    "records": [
+        {
+        "user": "SuperJavicon",
+        "link": "https://www.mediafire.com/file/h0bdgo6cphzhbpj/8mb.video-sLq-smgA5RuA.mp4/file",
+        "percent": 100,
+        "hz": 0
+        },
+        {
+        "user": "saikuuron",
+        "link": "https://cdn.discordapp.com/attachments/963910182444871730/1094283540885151754/hey57.mp4",
+        "percent": 57,
+        "hz": 240
+        },
+        {
+        "user": "CrabbyCrab101",
+        "link": "https://cdn.discordapp.com/attachments/963910182444871730/1094305654551888023/Cnek_Gdps_2023.04.08_-_12.41.46.65.DVR_Trim.mp4",
+        "percent": 51,
+        "hz": 240
+        },
+        {
+        "user": "theletterH",
+        "link": "https://youtu.be/AoGDgg74e4U",
+        "percent": 49,
+        "hz": 360
+        },
+        {
+        "user": "bdoo",
+        "link": "https://cdn.discordapp.com/attachments/990197966172192778/1094325673218289794/Geometry_Dash_2023.04.08_-_14.09.56.04.DVR_-_Trim.mp4",
+        "percent": 49,
+        "hz": 165
+        },
+        {
+        "user": "Rulmy",
+        "link": "https://youtu.be/OcFN7yLLMko",
+        "percent": 45,
+        "hz": 360
+        },
+        {
+        "user": "hei",
+        "link": "https://cdn.discordapp.com/attachments/963910182444871730/1101949500412661822/2023-04-29_13-09-13_Trim.mp4",
+        "percent": 44,
+        "hz": 300
+        },
+        {
+        "user": "leyrker",
+        "link": "https://cdn.discordapp.com/attachments/963910182444871730/1094022164291797072/trim.D738F7E9-A3E5-4E38-8879-73577CA6C683.mov",
+        "percent": 42,
+        "hz": 240
+        },
+        {
+        "user": "jmp422",
+        "link": "https://youtu.be/z_HLDoKiLnY",
+        "percent": 39,
+        "hz": 240
+        },
+        {
+        "user": "michaxwx",
+        "link": "https://cdn.discordapp.com/attachments/963910182444871730/1092695170744598589/8mb.video-aZs-4UFHJ5UG.mp4",
+        "percent": 36,
+        "hz": 240
+        }
+    ]
+}
