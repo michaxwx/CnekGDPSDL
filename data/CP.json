@@ -1,0 +1,30 @@
+{
+  "id": 5428,
+  "name": "CP",
+  "author": "0",
+  "creators": ["njacked", "Akari"],
+  "verifier": "njacked",
+  "verification": "https://www.youtube.com/watch?v=9fMj-VCGQa4",
+  "percentToQualify": 57,
+  "password": "Free to Copy",
+  "records": [
+    {
+      "user": "Gelforce",
+      "link": "https://www.youtube.com/watch?v=6_2xjNx5NgQ",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "TFIBB",
+      "link": "https://www.youtube.com/watch?v=naZIwNMBVKM",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Kaza",
+      "link": "https://www.youtube.com/watch?v=Sjb6wg-7dak",
+      "percent": 100,
+      "hz": 300
+    }
+  ]
+}
