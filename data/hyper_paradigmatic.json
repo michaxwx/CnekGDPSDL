@@ -1,0 +1,18 @@
+{
+    "id": 5395,
+    "name": "Hyper Paradigmatic",
+    "author": "Baba",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/p8Aj6UYOTKU",
+    "percentToQualify": "51",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/G2tyCrJ4OnU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
