@@ -1,0 +1,18 @@
+{
+    "id": 20604,
+    "name": "Goldenrod City",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "Rulmy",
+    "verification": "https://www.youtube.com/watch?v=xz5URRnlh1Y",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://www.youtube.com/watch?v=qL0euI-teFM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
