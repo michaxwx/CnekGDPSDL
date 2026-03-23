@@ -1,0 +1,18 @@
+{
+    "id": 20532,
+    "name": "Unnamed 0",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=Rz6lfEaC1lE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+        "user": "Hipo",
+        "link": "https://youtu.be/lVumVzkCxH8",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
