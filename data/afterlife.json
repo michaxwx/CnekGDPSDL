@@ -1,0 +1,24 @@
+{
+    "id": 5806,
+    "name": "AFTERLIFE",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "njacked",
+    "verification": "https://www.youtube.com/watch?v=Fm15SHYwxqI",
+    "percentToQualify": 47,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Kaza",
+            "link": "https://www.youtube.com/watch?v=f-T_3AfxnyY",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gelforce",
+            "link": "https://www.youtube.com/watch?v=EU1ZNhdQzD4",
+            "percent": 92,
+            "hz": 288
+        }
+    ]
+}
