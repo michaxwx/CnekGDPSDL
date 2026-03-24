@@ -121,4 +121,47 @@ export async function fetchLeaderboard() {
 
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
+
+    const dir2 = '/data/rated-unrated';
+
+export async function fetchRatedUnratedList() {
+    const listResult = await fetch(`${dir2}/_list.json`);
+    try {
+        const list = await listResult.json();
+        return await Promise.all(
+            list.map(async (path, rank) => {
+                const levelResult = await fetch(`${dir2}/${path}.json`);
+                try {
+                    const level = await levelResult.json();
+                    return [
+                        {
+                            ...level,
+                            path,
+                            records: level.records.sort(
+                                (a, b) => b.percent - a.percent,
+                            ),
+                        },
+                        null,
+                    ];
+                } catch {
+                    console.error(`Failed to load level #${rank + 1} ${path}.`);
+                    return [null, path];
+                }
+            }),
+        );
+    } catch {
+        console.error(`Failed to load rated+unrated list.`);
+        return null;
+    }
+}
+
+export async function fetchRatedUnratedEditors() {
+    try {
+        const editorsResults = await fetch(`${dir2}/_editors.json`);
+        const editors = await editorsResults.json();
+        return editors;
+    } catch {
+        return null;
+    }
+}
 }
