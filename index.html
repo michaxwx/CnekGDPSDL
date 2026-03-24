@@ -24,48 +24,6 @@
         <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
         <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
         <script type="module" src="/js/main.js"></script>
-
-        <style>
-            .list-toggle {
-                display: flex;
-                align-items: center;
-                background: rgba(0, 0, 0, 0.12);
-                border-radius: 999px;
-                padding: 3px;
-                gap: 2px;
-            }
-
-            .list-toggle__btn {
-                background: none;
-                border: none;
-                border-radius: 999px;
-                padding: 6px 14px;
-                cursor: pointer;
-                font-family: 'Lexend Deca', sans-serif;
-                font-size: 0.85rem;
-                font-weight: 700;
-                color: inherit;
-                opacity: 0.55;
-                transition: background 0.2s, opacity 0.2s;
-                white-space: nowrap;
-            }
-
-            .list-toggle__btn.active {
-                background: white;
-                opacity: 1;
-                color: #333;
-                box-shadow: 0 1px 4px rgba(0,0,0,0.15);
-            }
-
-            header.dark .list-toggle {
-                background: rgba(255, 255, 255, 0.1);
-            }
-
-            header.dark .list-toggle__btn.active {
-                background: rgba(255, 255, 255, 0.2);
-                color: white;
-            }
-        </style>
     </head>
     <body id="app">
         <header :class="{ dark: store.dark }">
@@ -75,7 +33,11 @@
             </div>
             <nav class="nav">
                 <router-link class="nav__tab" to="/">
-                    <span class="type-label-lg">List</span>
+                    <span class="type-label-lg">Main List</span>
+                </router-link>
+                <!-- NEW: Rated+Unrated List button -->
+                <router-link class="nav__tab" to="/rated-unrated">
+                    <span class="type-label-lg">Rated+Unrated List</span>
                 </router-link>
                 <router-link class="nav__tab" to="/leaderboard">
                     <span class="type-label-lg">Leaderboard</span>
@@ -83,25 +45,6 @@
                 <router-link class="nav__tab" to="/roulette">
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
-
-                <!-- List switcher toggle -->
-                <div class="list-toggle">
-                    <button
-                        class="list-toggle__btn"
-                        :class="{ active: store.listMode === 'main' }"
-                        @click.prevent="store.setListMode('main')"
-                    >
-                        Main List
-                    </button>
-                    <button
-                        class="list-toggle__btn"
-                        :class="{ active: store.listMode === 'ratedunrated' }"
-                        @click.prevent="store.setListMode('ratedunrated')"
-                    >
-                        Rated+Unrated List
-                    </button>
-                </div>
-
                 <div class="nav__actions">
                     <button
                         class="nav__icon"
