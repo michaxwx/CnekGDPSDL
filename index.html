@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=1024" />
         <title>CnekGDPS DL</title>
 
-        <!-- Replace your server icon by uploading an image file named "list_icon.png"-->
         <link rel="icon" href="/list_icon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -17,22 +16,56 @@
         <link rel="stylesheet" type="text/css" href="/css/typography.css" />
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
         <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
-        <link
-            rel="stylesheet"
-            type="text/css"
-            href="/css/pages/leaderboard.css"
-        />
+        <link rel="stylesheet" type="text/css" href="/css/pages/leaderboard.css" />
         <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
-        <link
-            rel="stylesheet"
-            type="text/css"
-            href="/css/components/tabs.css"
-        />
+        <link rel="stylesheet" type="text/css" href="/css/components/tabs.css" />
         <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
         <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
         <script type="module" src="/js/main.js"></script>
+
+        <style>
+            .list-toggle {
+                display: flex;
+                align-items: center;
+                background: rgba(0, 0, 0, 0.12);
+                border-radius: 999px;
+                padding: 3px;
+                gap: 2px;
+            }
+
+            .list-toggle__btn {
+                background: none;
+                border: none;
+                border-radius: 999px;
+                padding: 6px 14px;
+                cursor: pointer;
+                font-family: 'Lexend Deca', sans-serif;
+                font-size: 0.85rem;
+                font-weight: 700;
+                color: inherit;
+                opacity: 0.55;
+                transition: background 0.2s, opacity 0.2s;
+                white-space: nowrap;
+            }
+
+            .list-toggle__btn.active {
+                background: white;
+                opacity: 1;
+                color: #333;
+                box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+            }
+
+            header.dark .list-toggle {
+                background: rgba(255, 255, 255, 0.1);
+            }
+
+            header.dark .list-toggle__btn.active {
+                background: rgba(255, 255, 255, 0.2);
+                color: white;
+            }
+        </style>
     </head>
     <body id="app">
         <header :class="{ dark: store.dark }">
@@ -50,6 +83,25 @@
                 <router-link class="nav__tab" to="/roulette">
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
+
+                <!-- List switcher toggle -->
+                <div class="list-toggle">
+                    <button
+                        class="list-toggle__btn"
+                        :class="{ active: store.listMode === 'main' }"
+                        @click.prevent="store.setListMode('main')"
+                    >
+                        Main List
+                    </button>
+                    <button
+                        class="list-toggle__btn"
+                        :class="{ active: store.listMode === 'ratedunrated' }"
+                        @click.prevent="store.setListMode('ratedunrated')"
+                    >
+                        Rated+Unrated List
+                    </button>
+                </div>
+
                 <div class="nav__actions">
                     <button
                         class="nav__icon"
@@ -60,12 +112,10 @@
                             alt=""
                         />
                     </button>
-                    <!-- Replace the '#' with your discord server's invite-->
                     <a class="nav__icon" href="https://discord.gg/nBk6maP9SK">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
                     </a>
-                    <!-- List record submission form, add a link to replace the '#' when putting a link to your list submission form-->
-                    <a
+                    
                         class="nav__cta type-label-lg"
                         href="https://forms.gle/wAHe4QPFa2zdc87V8"
                         target="_blank"
