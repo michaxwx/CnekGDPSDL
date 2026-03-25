@@ -1,0 +1,42 @@
+{
+    "id": 424,
+    "name": "Realistik",
+    "author": "Lilth",
+    "creators": ["KrisKing", "Lilth"],
+    "verifier": "KrisKing",
+    "verification": "https://youtu.be/xuVF4Za8Oxk",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/729020329350922250/easier_than_orange_hell.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/zyyhX6Ti1_8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=P81WD6o9ZEY&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=-36c0ww3C50",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/rziqrIOJpjM",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
