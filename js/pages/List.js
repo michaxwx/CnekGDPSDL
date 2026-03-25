@@ -151,7 +151,7 @@ export default {
     },
     async mounted() {
         // Hide loading spinner
-        this.list = await fetchList();
+        this.list = await fetchList(this.store.listMode);
         this.editors = await fetchEditors();
 
         // Error handling
@@ -173,6 +173,26 @@ export default {
         }
 
         this.loading = false;
+    },
+    watch: {
+        'store.listMode': async function(newMode) {
+            this.loading = true;
+            this.selected = 0;
+            this.errors = [];
+            this.list = await fetchList(newMode);
+            this.editors = await fetchEditors();
+            if (!this.list) {
+                this.errors = ["Failed to load list. Retry in a few minutes or notify list staff."];
+            } else {
+                this.errors.push(
+                    ...this.list
+                        .filter(([_, err]) => err)
+                        .map(([_, err]) => `Failed to load level. (${err}.json)`)
+                );
+                if (!this.editors) this.errors.push("Failed to load list editors.");
+            }
+            this.loading = false;
+        },
     },
     methods: {
         embed,
