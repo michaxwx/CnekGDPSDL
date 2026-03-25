@@ -1,12 +1,13 @@
 import { round, score } from './score.js';
 
 /**
- * Path to directory containing `_list.json` and all levels
+ * Path to directory containing list JSONs and all levels
  */
 const dir = '/data';
 
-export async function fetchList() {
-    const listResult = await fetch(`${dir}/_list.json`);
+export async function fetchList(listType = 'main') {
+    const listFile = listType === 'rgb' ? '_rgblist.json' : '_list.json';
+    const listResult = await fetch(`${dir}/${listFile}`);
     try {
         const list = await listResult.json();
         return await Promise.all(
@@ -46,8 +47,8 @@ export async function fetchEditors() {
     }
 }
 
-export async function fetchLeaderboard() {
-    const list = await fetchList();
+export async function fetchLeaderboard(listType = 'main') {
+    const list = await fetchList(listType);
 
     const scoreMap = {};
     const errs = [];
