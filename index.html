@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=1024" />
         <title>CnekGDPS DL</title>
- 
+
         <!-- Replace your server icon by uploading an image file named "list_icon.png"-->
         <link rel="icon" href="/list_icon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -60,13 +60,6 @@
                             alt=""
                         />
                     </button>
-                    <button
-                        class="nav__cta type-label-lg"
-                        style="margin-left: 1rem; cursor: pointer; border: none;"
-                        @click.prevent="store.toggleListMode()"
-                    >
-                        {{ store.listMode === 'main' ? 'Main List' : 'RGB List' }}
-                    </button>
                     <!-- Replace the '#' with your discord server's invite-->
                     <a class="nav__icon" href="#">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
@@ -78,6 +71,13 @@
                         target="_blank"
                         >Submit Record</a
                     >
+                    <button
+                        class="nav__cta type-label-lg"
+                        style="cursor: pointer; border: none;"
+                        @click.prevent="store.toggleListMode()"
+                    >
+                        {{ store.listMode === 'main' ? 'Main List' : 'RGB List' }}
+                    </button>
                 </div>
             </nav>
         </header>
