@@ -1,0 +1,42 @@
+{
+    "id": 2305,
+    "name": "dimension full ver",
+    "author": "iiHeroSuperGDPS",
+    "creators": ["iiHeroSuperGDPS"],
+    "verifier": "iiHeroSuperGDPS",
+    "verification": "https://youtu.be/NG9itGRXV3c",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/809619972090363904/Base_Profile_2021.02.11_-_21.59.32.05.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/4SWrbBkZ-yY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/jvguuXSfNjk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/VtgsjexSc9k",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LLunaa",
+            "link": "https://youtu.be/Aqk6AyFzFug",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
