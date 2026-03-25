@@ -1,0 +1,36 @@
+{
+    "id": 971,
+    "name": "Shadow Travel",
+    "author": "Mikal",
+    "creators": ["Mikal", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/rvQC3Y9gGVc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=ON-i5xO7D5Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/SPlWTRbFM24",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/xoeee0MDjDI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=Lrlw26KYrgY&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
