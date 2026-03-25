@@ -1,0 +1,18 @@
+{
+    "id": 3418,
+    "name": "wavey",
+    "author": "Mone",
+    "creators": ["Deadblue", "Mone"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/W_7gv_xoiEw",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/N-lio9h9p50",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
