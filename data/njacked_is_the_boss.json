@@ -1,0 +1,30 @@
+{
+  "id": 3413,
+  "name": "NJACKED IS THE BOSS",
+  "author": "jayneanderson",
+  "creators": ["jayneanderson"],
+  "verifier": "jayneanderson",
+  "verification": "https://www.youtube.com/watch?v=SR7T_xv1ZSc",
+  "percentToQualify": 52,
+  "password": "Free to Copy",
+  "records": [
+    {
+      "user": "TFIBB",
+      "link": "https://www.youtube.com/watch?v=l1CinWu5prw",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Pushenka",
+      "link": "https://www.youtube.com/watch?v=D0jggPc0910",
+      "percent": 100,
+      "hz": 144
+    },
+    {
+      "user": "Kaza",
+      "link": "https://www.youtube.com/watch?v=JSXG6PqWM0s",
+      "percent": 100,
+      "hz": 300
+    }
+  ]
+}
