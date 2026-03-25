@@ -1,0 +1,24 @@
+{
+    "id": 2775,
+    "name": "Generic Picture",
+    "author": "Exenity",
+    "creators": ["Exenity", "newpixelcnek"],
+    "verifier": "newpixelcnek",
+    "verification": "https://youtu.be/T2HQy6g-y3E",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/iiiKqs9WKYs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/818067037976395836/easier_than_galactica.mp4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
