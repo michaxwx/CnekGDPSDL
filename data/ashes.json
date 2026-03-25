@@ -1,0 +1,18 @@
+{
+    "id": 2726,
+    "name": "Ashes",
+    "author": "kaiju",
+    "creators": ["kaiju"],
+    "verifier": "kaiju",
+    "verification": "https://youtu.be/oSuxh9wuc8k",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/129Kdz_F-5A",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
