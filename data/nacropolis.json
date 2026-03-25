@@ -1,0 +1,24 @@
+{
+    "id": 760,
+    "name": "Nacropolis",
+    "author": "Challenger",
+    "creators": ["Challenger"],
+    "verifier": "Challenger",
+    "verification": "https://www.youtube.com/watch?v=DCe6ob1cWP4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Deadblue",
+            "link": "https://youtu.be/BCngKQKqL-8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zekek",
+            "link": "https://youtu.be/waX_JAt8KRQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
