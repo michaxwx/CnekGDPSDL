@@ -1,0 +1,30 @@
+{
+    "id": 2174,
+    "name": "Windfall Circles",
+    "author": "FancyAkaVTGD",
+    "creators": ["FancyAkaVTGD"],
+    "verifier": "FancyAkaVTGD",
+    "verification": "https://youtu.be/06l90bV_LFs",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/809533922030780456/Base_Profile_2021.02.11_-_16.17.23.03.DVR_Trim_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zpice",
+            "link": "https://youtu.be/dTij-G15ZBc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/JM8RnpUAjKI",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
