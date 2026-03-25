@@ -1,0 +1,18 @@
+{
+    "id": 20984,
+    "name": "HEXAGON FORCE V4 2",
+    "author": "TFIBB",
+    "creators": ["TFIBB"],
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=_GS5UEyNbrg",
+    "percentToQualify": "45",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=NTwrxVOE-q0",
+            "percent": 100,
+            "hz": 280
+        }
+    ]
+}
