@@ -9,6 +9,10 @@
     --color-on-error: white;
 }
 
+[v-cloak] {
+    display: none;
+}
+
 main {
     background-image:
         linear-gradient(
