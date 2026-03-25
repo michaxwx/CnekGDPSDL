@@ -1,0 +1,24 @@
+{
+    "id": 4893,
+    "name": "tesco",
+    "author": "drige",
+    "creators": ["drige"],
+    "verifier": "drige",
+    "verification": "https://youtu.be/dQJvVCPgcoQ",
+    "percentToQualify": "100",
+    "password": "2", 
+    "records": [
+        {
+            "user": "Deadblue",
+            "link": "https://youtu.be/eOdZcI4EnRc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/y6AMDSCLgzM",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
