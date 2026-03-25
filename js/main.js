@@ -6,6 +6,11 @@ export const store = Vue.reactive({
         this.dark = !this.dark;
         localStorage.setItem('dark', JSON.stringify(this.dark));
     },
+    listMode: localStorage.getItem('listMode') || 'main',
+    toggleListMode() {
+        this.listMode = this.listMode === 'main' ? 'rgb' : 'main';
+        localStorage.setItem('listMode', this.listMode);
+    },
 });
 
 const app = Vue.createApp({
