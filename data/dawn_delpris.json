@@ -1,0 +1,24 @@
+{
+    "id": 3502,
+    "name": "Dawn Delpris",
+    "author": "njacked",
+    "creators": ["njacked"],
+    "verifier": "njacked",
+    "verification": "https://youtu.be/lYfdvV0Lgfc",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Deadblue",
+            "link": "https://youtu.be/SH0LFsqAQNo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/_BVZ4HIetUU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
