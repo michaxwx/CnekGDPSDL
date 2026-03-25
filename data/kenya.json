@@ -1,0 +1,36 @@
+{
+    "id": 1715,
+    "name": "Kenya",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/7EnUKwlh7hw",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/809531853165166622/Base_Profile_2021.02.11_-_16.09.34.02.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pog",
+            "link": "https://youtu.be/CxXN0nWwc1s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/ej4A8iqwW7A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LLunaa",
+            "link": "https://youtu.be/DnlxgKA5tP0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
