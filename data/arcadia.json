@@ -1,0 +1,42 @@
+{
+    "id": 1692,
+    "name": "Arcadia",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/CiD3VK2tXpg",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/809284827063910450/Base_Profile_2021.02.10_-_23.48.03.08.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/-0b6eELJDLE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NewVoxEnergy",
+            "link": "https://youtu.be/kW0E76Rm0FY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/cQSJxgt_snk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/J4tYCHRNckQ",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
