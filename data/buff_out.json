@@ -1,0 +1,24 @@
+{
+    "id": 132,
+    "name": "Buff Out",
+    "author": "Cosnix",
+    "creators": ["Cosnix", "Daxy"],
+    "verifier": "Daxy",
+    "verification": "https://youtu.be/PO7capTJn5g",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zekekGD",
+            "link": "https://youtu.be/MoblsVWU81g",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/729106416832479232/last_is_gusty_circles.mp4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
