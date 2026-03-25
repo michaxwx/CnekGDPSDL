@@ -1,0 +1,36 @@
+{
+    "id": 1977,
+    "name": "Mental Fracture",
+    "author": "RemUwU",
+    "creators": ["RemUwU", "Invictux"],
+    "verifier": "Invictux",
+    "verification": "https://youtu.be/S7tT7FFqcvc",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/809218397748330496/Desktop_2021.02.10_-_19.23.56.04.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/Hb1wLzyUo20",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zpice",
+            "link": "https://youtu.be/6dpY64vXLmM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Hei",
+            "link": "https://youtu.be/0RfDse3DI8Q",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
