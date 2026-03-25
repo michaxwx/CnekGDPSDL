@@ -1,0 +1,24 @@
+{
+    "id": 3391,
+    "name": "Radio",
+    "author": "venesis2055",
+    "creators": ["Deadblue", "venesis2055"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/lWInuzH6HJc",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/wYTd2nO_71g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/obn5a_m3BuY",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
