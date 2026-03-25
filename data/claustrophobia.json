@@ -1,0 +1,36 @@
+{
+    "id": 696,
+    "name": "Claustrophobia",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://www.youtube.com/watch?v=obTW0X4CPfo",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/732398044301099078/Safa.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://www.youtube.com/watch?v=enhRV5cxKp0&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=1EQOvoNK_uo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pog",
+            "link": "https://youtu.be/CxXN0nWwc1s",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
