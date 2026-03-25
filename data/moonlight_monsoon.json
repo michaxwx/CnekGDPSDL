@@ -1,0 +1,54 @@
+{
+    "id": 2465,
+    "name": "Moonlight Monsoon",
+    "author": "Kaiju",
+    "creators": ["Kaiju"],
+    "verifier": "Kaiju",
+    "verification": "https://youtu.be/Xt0WoKnCN74",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/WpAfmh4pQT4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Vink",
+            "link": "https://youtu.be/wUt5TUKyuwg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/TVUqJBRrxtQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "LLunaa",
+            "link": "https://youtu.be/Aqk6AyFzFug",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JayWithABitOfK",
+            "link": "https://www.youtube.com/watch?v=VE0TN2YZaps&ab_channel=-Exactify74-",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/z2DgOJ9X7b8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "AlooxChugs",
+            "link": "https://youtu.be/DGJ2Aimt-3c",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+} 
