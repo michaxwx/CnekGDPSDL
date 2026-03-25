@@ -1,0 +1,54 @@
+{
+  "id": 977,
+  "name": "Trash",
+  "author": "Bangaled",
+  "creators": ["Bangaled"],
+  "verifier": "TFIBB",
+  "verification": "https://www.youtube.com/watch?v=8JHrNWP4H58",
+  "percentToQualify": 54,
+  "password": "Free to Copy",
+  "records": [
+    {
+      "user": "piesy",
+      "link": "https://www.youtube.com/watch?v=69aBXS2vm4Q",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "jayneanderson",
+      "link": "https://www.youtube.com/watch?v=B96ybkxUmXg",
+      "percent": 100,
+      "hz": 300
+    },
+    {
+      "user": "Kaza",
+      "link": "https://www.youtube.com/watch?v=iGZYHTN0VnE",
+      "percent": 100,
+      "hz": 300
+    },
+    {
+      "user": "Gelforce",
+      "link": "https://www.youtube.com/watch?v=9gy_8_t4Kcw",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Pushenka",
+      "link": "https://www.youtube.com/watch?v=lMwtxnKxqwE",
+      "percent": 100,
+      "hz": 144
+    },
+    {
+      "user": "CookieIsCock",
+      "link": "https://cdn.discordapp.com/attachments/963910182444871730/976394984326582272/Trash.mp4",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Rulmy",
+      "link": "https://www.youtube.com/watch?v=TZVySjlcozI",
+      "percent": 100,
+      "hz": 100
+    }
+  ]
+}
