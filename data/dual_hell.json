@@ -1,0 +1,60 @@
+{
+    "id": 1911,
+    "name": "Dual Hell",
+    "author": "Mikal",
+    "creators": ["Mikal", "zekekGD"],
+    "verifier": "zekekGD",
+    "verification": "https://youtu.be/2DjLyDbDnkw",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/6xXK5c4kmtc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/pvSTQazswws",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/h_-kii_67P4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=4lopwDabZkg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=obfDcvANRik&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Nijil",
+            "link": "https://youtu.be/GgvJyO8Rja0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/x0vJH1k-F9s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "draig",
+            "link": "https://youtu.be/KxjZCkPuYVk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
