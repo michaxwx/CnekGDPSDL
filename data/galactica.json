@@ -1,0 +1,54 @@
+{
+    "id": 1055,
+    "name": "Galactica",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k", "Key"],
+    "verifier": "Koozoo2k",
+    "verification": "https://www.youtube.com/watch?v=2qZkQfRs8Gs&feature=youtu.be",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/732390509557055488/2Q.mp4.",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/l5UvmIJj8dA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/zPD7CuWTJKQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "zekekGD",
+            "link": "https://youtu.be/rELZixbYZvI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=CCL0sBDCs3w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://www.youtube.com/watch?v=ytmJcsWsHU8&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "key",
+            "link": "https://www.youtube.com/watch?v=O4aVhgYrGs4&feature=youtu.be",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
