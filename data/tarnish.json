@@ -1,0 +1,42 @@
+{
+    "id": 456,
+    "name": "Tarnish",
+    "author": "Deadblue",
+    "creators": ["Blixio", "Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/CYH78Q4uH8w",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "ninjabeary",
+            "link": "https://youtu.be/zHsb1ZqI0sg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=Mk1zi_C572Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/NCwnlb6GdFk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/XWfTA0m4r9Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/hpaVzYoaxig",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
