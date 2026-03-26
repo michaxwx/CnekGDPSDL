@@ -1,0 +1,49 @@
+{
+    "id": 2726,
+    "name": "Target",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/ifTNomjJTxw",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+{
+  "records": [
+    {
+      "user": "Koozoo2k",
+      "link": "https://youtu.be/QrEgT9b34EU",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "tc7742",
+      "link": "https://youtu.be/xbXeB3SklUs",
+      "percent": 100,
+      "hz": 120
+    },
+    {
+      "user": "jayneanderson",
+      "link": "https://youtu.be/DQz-9e21McQ",
+      "percent": 100,
+      "hz": 300
+    },
+    {
+      "user": "wucaf",
+      "link": "https://cdn.discordapp.com/attachments/705892916178190457/945393110245068820/anusdemon.mp4",
+      "percent": 100,
+      "hz": 0
+    },
+    {
+      "user": "CnekYT",
+      "link": "https://youtu.be/RIz46lwrjwI",
+      "percent": 100,
+      "hz": 288
+    },
+    {
+      "user": "ninjabeary",
+      "link": "https://cdn.discordapp.com/attachments/950472853038448670/958272686969204746/ninjabearys_Target_completion.mp4",
+      "percent": 100,
+      "hz": 360
+    }
+  ]
+}
