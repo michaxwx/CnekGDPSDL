@@ -1,0 +1,36 @@
+{
+    "id": 4886,
+    "name": "ICE carbon Tartarus",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/FZvSbkOf4fQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Nix",
+            "link": "https://youtu.be/DbYwl-t3pl4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/ORRgickKVbw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/eJy4waavkPQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/e_KIxCYB5so",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
