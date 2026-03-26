@@ -1,0 +1,24 @@
+{
+    "id": 5050,
+    "name": "ageless classic",
+    "author": "Orhideya",
+    "creators": ["Orhideya", "zMrMummy"],
+    "verifier": "zMrMummy",
+    "verification": "https://youtu.be/Ca7fXam8FGs",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/coMR34Gb3KE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/7NLA96OovdA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
