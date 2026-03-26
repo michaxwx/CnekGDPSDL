@@ -1,0 +1,30 @@
+{
+    "id": 2073,
+    "name": "E",
+    "author": "Bangaled",
+    "creators": ["Bangaled", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://cdn.discordapp.com/attachments/671868081341071411/786811052951207996/oh.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/plWQMO4zeDc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/xwHsqwk7NzM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/3bGYhs2q2XI",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
