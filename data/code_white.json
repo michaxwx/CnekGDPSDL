@@ -1,0 +1,48 @@
+{
+    "id": 504,
+    "name": "Code White",
+    "author": "Lilth",
+    "creators": ["Lilth", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/sb8BPk5sUZQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/cCb6RThaDOk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=Bet0bNfx4R0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/3sL4xeHIx_Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/qYgDf7FJJ-Q",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/6Izh1SFlqnM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Skell",
+            "link": "https://youtu.be/fcHRqKHAyOw",
+            "percent": 72,
+            "hz": 0
+        }
+    ]
+}
