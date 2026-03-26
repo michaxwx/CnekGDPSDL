@@ -1,0 +1,48 @@
+{
+    "id": 1855,
+    "name": "LQL",
+    "author": "iiHeroSuperGDPS",
+    "creators": ["iiHeroSuperGDPS"],
+    "verifier": "iiHeroSuperGDPS",
+    "verification": "https://youtu.be/9899kxLPIRU",
+    "percentToQualify": "100",
+    "password": "000111", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/815016979781779486/Base_Profile_2021.02.26_-_19.25.17.04.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/E3piTSPQqd4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/GNTJp2S6kvU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/4Zs_6kqpcM0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/t04MIvBEdts",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/VYA5U6i_lRg",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
