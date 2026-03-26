@@ -1,0 +1,78 @@
+{
+    "id": 526,
+    "name": "SeparatisT",
+    "author": "Yosem",
+    "creators": ["Yosem"],
+    "verifier": "Yosem",
+    "verification": "https://youtu.be/awXAu7NKgvc",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/_FZc_3NHC4c",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "BentaiInTime",
+            "link": "https://youtu.be/H30Qb-fJUMY",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "zekekGD",
+            "link": "https://youtu.be/EN5AlRzZap0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/728637847778623518/81.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=zb3rVGguS6U&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=EfBHL2UJ73Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/5vgQH5aIfe0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/Z8K486R-Tvo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Celected",
+            "link": "https://cdn.discordapp.com/attachments/700458938034028564/743191785853157458/separatist_100.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Whirret4",
+            "link": "https://youtu.be/lArviO7mDfk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/JBxCOVHou3E",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
