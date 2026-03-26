@@ -1,0 +1,66 @@
+{
+    "id": 1165,
+    "name": "VQC",
+    "author": "CnekYT",
+    "creators": ["CnekYT", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/wuEzDj0KPZo",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/8VcT3R_7ABA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/IOzB_Cx-Q90",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/ETiLit6tpj8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Amza",
+            "link": "https://youtu.be/iGZYHTN0VnE",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/J_yVOx1ZshA",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "ButterFish1413",
+            "link": "https://youtu.be/8diPi1MxaYs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://cdn.discordapp.com/attachments/950472853038448670/957064195281661952/CnekGDPS_VQC.mp4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ninjabeary",
+            "link": "https://cdn.discordapp.com/attachments/950472853038448670/958271455248941106/ninjabearys_VQC_completion.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/diXhDhDClJY",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
