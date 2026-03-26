@@ -1,0 +1,72 @@
+{
+    "id": 5034,
+    "name": "Gaynos",
+    "author": "ItzUtopiaStyles",
+    "creators": ["ItzUtopiaStyles"],
+    "verifier": "ItzUtopiaStyles",
+    "verification": "https://youtu.be/sTClg4CXqm0",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/pvYjUudSgug",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/JLnsL8BekIQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=2WjzjpRGHlA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://www.youtube.com/watch?v=l2qTrPQjh8g&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/5Rn1mvDtW6c",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sharky1",
+            "link": "https://youtu.be/_ev29GIh9TQ",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "LeifY",
+            "link": "https://youtu.be/9voP54mHMz0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "blazenik",
+            "link": "https://youtu.be/ni8_NNqpi7M",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/yX42DzRitpY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/niC4XEAPnBM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
