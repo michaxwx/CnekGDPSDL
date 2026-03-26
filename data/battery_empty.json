@@ -1,0 +1,18 @@
+{
+    "id": 3839,
+    "name": "Battery Empty",
+    "author": "ZergeYT",
+    "creators": ["drige", "ZergeYT"],
+    "verifier": "drige",
+    "verification": "https://youtu.be/jk6YTkxlURg",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/dXxJL5bAhuw",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
