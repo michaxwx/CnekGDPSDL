@@ -1,0 +1,18 @@
+{
+    "id": 2809,
+    "name": "BH",
+    "author": "iiHeroSuperGDPS",
+    "creators": ["iiHeroSuperGDPS"],
+    "verifier": "iiHeroSuperGDPS",
+    "verification": "https://youtu.be/CMp2BY8OEC0",
+    "percentToQualify": "100",
+    "password": "147896", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/qHe1GSFKytk",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
