@@ -1,0 +1,54 @@
+{
+    "id": 499,
+    "name": "Doomsday Delpris",
+    "author": "TFIBB",
+    "creators": ["CnekYT", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=o_M7fVOYNuo",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/z_raGKfMNY8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=jLMM6MpjpO4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/q7BpN6JIPrc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Celected",
+            "link": "https://cdn.discordapp.com/attachments/671868081341071411/778818311110524928/d.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/SLw34j_p-9k",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/JBxCOVHou3E",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "njacked",
+            "link": "https://www.youtube.com/watch?v=hDAITTyE1fI",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
