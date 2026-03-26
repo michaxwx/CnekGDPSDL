@@ -1,0 +1,42 @@
+{
+    "id": 1016,
+    "name": "Exasp",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://cdn.discordapp.com/attachments/705892916178190457/732397892203184228/no82.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=i0l3fxCTz10",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/DXfAa4mtFZM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/LrNqQsc0E5A",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LLunaa",
+            "link": "https://youtu.be/B1xZB1dvHK0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/bawcgIlHL0k",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
