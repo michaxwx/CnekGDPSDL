@@ -1,0 +1,36 @@
+{
+    "id": 1947,
+    "name": "super poggers level",
+    "author": "SiIvaGunner",
+    "creators": ["SiIvaGunner"],
+    "verifier": "SiIvaGunner",
+    "verification": "https://youtu.be/losE-AXEs7I",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/IMl_OGUQ20w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/wNXpwBVBDiw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/64INQJodG-0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/e6Wd-v_Nkxo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
