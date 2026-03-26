@@ -1,0 +1,42 @@
+{
+    "id": 1554,
+    "name": "Paliopolis",
+    "author": "Mesi",
+    "creators": ["Mesi", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://cdn.discordapp.com/attachments/705434440653996045/757032674996125777/bjhf.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/WDlZNlAKkjM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/9IQz7Z5Agb0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/Ytu3QI7USXY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/KPFOplGEbPM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/8MVzrMt7UfM",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
