@@ -1,0 +1,42 @@
+{
+    "id": 2802,
+    "name": "Brawlhalla",
+    "author": "kaiju",
+    "creators": ["kaiju"],
+    "verifier": "kaiju",
+    "verification": "https://youtu.be/dyOKKraXsTI",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/819260004301013012/bruh.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "makirito",
+            "link": "https://youtu.be/XS9ZsZjxYps",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "JayWithABitOfK",
+            "link": "https://youtu.be/9wqz5d6gilU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/UxTysLrPg9Y",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/47Rz8nmBb8s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
