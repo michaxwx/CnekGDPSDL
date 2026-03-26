@@ -1,0 +1,18 @@
+{
+    "id": 5557,
+    "name": "Nigeria Is A Country",
+    "author": "rBlexood",
+    "creators": ["rBlexood"],
+    "verifier": "rBlexood",
+    "verification": "https://youtu.be/0hw9smUDKf0",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/wX-EAl5Utzc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
