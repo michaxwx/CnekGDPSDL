@@ -1,0 +1,24 @@
+{
+    "id": 3621,
+    "name": "Deception",
+    "author": "Exenity",
+    "creators": ["Exenity", "tc7742"],
+    "verifier": "tc7742",
+    "verification": "https://youtu.be/Mq31fuyT8qA",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "fruitsalad",
+            "link": "https://youtu.be/7ueer77CfAM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/iDqbwMHcZu8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
