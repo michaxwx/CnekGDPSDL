@@ -1,0 +1,18 @@
+{
+    "id": 27,
+    "name": "Polterbuff",
+    "author": "NewVoxEnergy",
+    "creators": ["NewVoxEnergy"],
+    "verifier": "NewVoxEnergy",
+    "verification": "https://youtu.be/tCgOsQ1uKaI",
+    "percentToQualify": "100",
+    "password": "000000", 
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://youtu.be/xznp4FTovTw",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
