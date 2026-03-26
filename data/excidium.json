@@ -1,0 +1,24 @@
+{
+    "id": 4916,
+    "name": "Excidium",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/gy5I5e1l0Ck",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705434440653996045/927812364374528000/Geometry_Dash_2021.12.22_-_23.28.00.07.DVR_Trim_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/AByApQ5fInA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
