@@ -1,0 +1,78 @@
+{
+    "id": 906,
+    "name": "Grotesque Gallery",
+    "author": "RealFurrious",
+    "creators": ["RealFurrious"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/tYf91S0kWhs",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/xAnv-7yJt48",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Deactive",
+            "link": "https://youtu.be/r4wAJCIgEt0",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=SDeh6LVX_bQ&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/xh_HXHDLpIc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/grYALfnUE1A",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/pA9KSSSjMgw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "daisuki",
+            "link": "https://youtu.be/7HMY6WbvIR8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/968338521758765096/2022-04-25_19-12-11_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mentrillium",
+            "link": "https://youtu.be/-IiEirbVRGI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mone",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/990728389893705818/2022-06-26_23-11-27.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
