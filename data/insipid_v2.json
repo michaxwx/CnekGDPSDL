@@ -1,0 +1,48 @@
+{
+    "id": 3955,
+    "name": "Insipid v2",
+    "author": "Swoosh",
+    "creators": ["Swoosh"],
+    "verifier": "Swoosh",
+    "verification": "https://youtu.be/FUKlznmhlSo",
+    "percentToQualify": "100",
+    "password": "69420", 
+    "records": [
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/969071773347893288/2022-04-27_19-42-44_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sauci",
+            "link": "https://youtu.be/btylvGJXhMw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=M3ANLSzoc-E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/SNDBURnLUrk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/952370164182171648/1050244265898430525/Base_Profile_2022.12.07_-_00.35.26.03.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
