@@ -1,0 +1,42 @@
+{
+    "id": 5886,
+    "name": "Cnek Moment",
+    "author": "BanAnaBanv666",
+    "creators": ["BanAnaBanv666"],
+    "verifier": "r3dg45h",
+    "verification": "https://youtu.be/71pCNMuoVZU",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/COcLNDKWAq4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/bF5IX7VeZ2o",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/y01LvL-99is",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "mell",
+            "link": "https://youtu.be/_qsyUVWCtGU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
