@@ -1,0 +1,48 @@
+{
+    "id": 6435,
+    "name": "saul goodman", 
+    "author": "Ladaschi",
+    "creators": ["Deadblue", "Ladaschi"], 
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/uPQTu8ICvfw",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Amza",
+            "link": "https://youtu.be/UmaxJ-J_R9k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Patos",
+            "link": "https://youtu.be/j2Pcs5ObkAc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/zj7AqBg5ycM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/urJoHE-EoLc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/olafhK7IHz0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
