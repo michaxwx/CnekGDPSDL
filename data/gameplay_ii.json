@@ -1,0 +1,48 @@
+{
+    "id": 1675,
+    "name": "gAmEpLaY II", 
+    "author": "zekek",
+    "creators": ["KrisKing", "zekek"], 
+    "verifier": "KrisKing",
+    "verification": "https://youtu.be/HkekerEZvKc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=04cqyWIZtCg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k", <- listed as Koozoo2000 on the old list
+            "link": "https://youtu.be/71rmRsWWmPk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/8rwGaVLUHBk",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/Z8pqjfxxa6E",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/KoYJYKFGY5I",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/968363567155933194/2022-04-25_20-33-15_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
