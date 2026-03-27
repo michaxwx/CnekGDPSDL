@@ -1,0 +1,42 @@
+{
+    "id": 497,
+    "name": "delpris",
+    "author": "TFIBB",
+    "creators": ["PoohShiesty", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=DyCFXZvS9aw",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/rkCMPr8_aYU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/4k4PXQk9gjo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/v902_ioo-NM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/976308026875203594/Cnek_Gdps_2022.05.17_-_21.02.13.10.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+} 
