@@ -1,0 +1,24 @@
+{
+    "id": 2812,
+    "name": "Joint Pain", 
+    "author": "Swoosh",
+    "creators": ["graciepaws", "Swoosh"], 
+    "verifier": "graciepaws",
+    "verification": "https://www.youtube.com/watch?v=HkekerEZvKc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/5tEeWuMpS98",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
