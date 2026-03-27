@@ -1,0 +1,18 @@
+{
+    "id": 6445,
+    "name": "Joseph Zero0", 
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/vS8fl6leSXM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/OekODXE1RM4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
