@@ -1,0 +1,66 @@
+{
+    "id": 1036,
+    "name": "Sh1veR",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k"],
+    "verifier": "Koozoo2k",
+    "verification": "https://www.youtube.com/watch?v=Jj9Pb-nU3Aw&feature=youtu.be",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/732352015870591137/bad.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/oJpgPRsCj0E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/10pIMwopFrY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/SNXAtzGOPpo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zpice",
+            "link": "https://youtu.be/mvBDHjaZt2k",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/jId1IYLvBxs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/NjYOMryzTV8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/o87bExwsC2w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/xMvBAkKddjQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
