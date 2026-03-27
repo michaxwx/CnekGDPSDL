@@ -1,0 +1,78 @@
+{
+    "id": 1331,
+    "name": "InfernopleX",
+    "author": "CnekYT",
+    "creators": ["CnekYT"], 
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=UdU_5CQAzrI",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+		{
+            "user": "KrisKing",
+            "link": "https://youtu.be/5-MQmSb2ybg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/0QCZ7gPhg2w",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Koozoo2k", <- im gonna stop annotating when the old site lists as Koozoo2000
+            "link": "https://youtu.be/hA3lSLt514o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/Yeo7-enDPAY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lonhi",
+            "link": "https://youtu.be/q3e3mqbKG1g",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/BI-9lomS53I",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/ko9gLOKTqH0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/fcKnou28CUU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "drige",
+            "link": "https://www.youtube.com/watch?v=-HimDvo5BVk",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=SYcIrzbimAY",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "ItsUtopia",
+            "link": "https://youtu.be/2UboV2QZqx0?si=jRYlvG71NvmTVwgz",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
