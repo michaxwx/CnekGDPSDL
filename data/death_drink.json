@@ -1,0 +1,18 @@
+{
+    "id": 3299,
+    "name": "death drink", 
+    "author": "Durians",
+    "creators": ["Durians"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/_VMDx5V7nFY",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/SdrDuqlj3yk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
