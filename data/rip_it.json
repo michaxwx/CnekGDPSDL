@@ -1,0 +1,48 @@
+{
+    "id": 2963,
+    "name": "Rip it",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k"],
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/zdlsZKIOZEA",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/D4D-o2cZ6xI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/Ak5llPISeLE",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/7W1bar8AHeM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/968702929219510292/2022-04-26_19-28-07_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/GJCnjmTjzfY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
