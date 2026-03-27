@@ -1,0 +1,24 @@
+{
+    "id": 6514,
+    "name": "Dual Delusion",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/vNmgA_Wu5lU",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/rFRA0YMl_jc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/LtXBl-iO5ZM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
