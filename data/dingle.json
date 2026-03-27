@@ -1,0 +1,18 @@
+{
+    "id": 5957,
+    "name": "Dingle",
+    "author": "tc7742",
+    "creators": ["tc7742"],
+    "verifier": "tc7742",
+    "verification": "https://cdn.discordapp.com/attachments/963821840390848512/972250066393911306/Quandale_Dingle.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/qtWoJq0qBzU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
