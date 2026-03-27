@@ -1,0 +1,54 @@
+{
+    "id": 3564,
+    "name": "Kagirareta",
+    "author": "Kaiju",
+    "creators": ["Kaiju", "Mone"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/pvrms8DydeY",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/I_a_YvE2zd8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/Uq2_SeNoRwI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/y1upwndqLQc",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/kzM6iTpOfOw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/NhyfrI-hAuc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/TXSvJ4kutgc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
