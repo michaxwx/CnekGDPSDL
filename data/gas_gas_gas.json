@@ -1,0 +1,24 @@
+{
+    "id": 3369,
+    "name": "Gas Gas Gas",
+    "author": "Zpic3",
+    "creators": ["Zpic3"],
+    "verifier": "Zpic3",
+    "verification": "https://youtu.be/7RsRCr0JEw8",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/DF5L07TLvec",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/LFtGMF8MvSI",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
