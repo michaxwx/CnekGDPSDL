@@ -1,0 +1,24 @@
+{
+    "id": 18462,
+    "name": "operan",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/coSitY4I-4Y",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "kathryn",
+            "link": "https://cdn.discordapp.com/attachments/941212982061441104/1079272028051349645/IMG_2646.mov",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=OVdEpNBZmI4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
