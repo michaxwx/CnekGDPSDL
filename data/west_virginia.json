@@ -1,0 +1,36 @@
+{
+    "id": 18970,
+    "name": "West Virginia",
+    "author": "Mone",
+    "creators": ["Ladaschi", "Mone"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/_bEz2y8gGNM",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/vdoEjCzGiOs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CrabbyCrab101",
+            "link": "https://www.youtube.com/watch?v=PgXfx_esH98",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "drige",
+            "link": "https://www.youtube.com/watch?v=-HimDvo5BVk",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Pounouche",
+            "link": "https://www.youtube.com/shorts/TZrwyMqIbBM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
