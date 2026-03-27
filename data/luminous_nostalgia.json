@@ -1,0 +1,24 @@
+{
+    "id": 5404,
+    "name": "Luminous Nostalgia",
+    "author": "Butterfish1413",
+    "creators": ["Psionic"], 
+    "verifier": "Butterfish1413",
+    "verification": "https://www.youtube.com/watch?v=3toi6oaL3Ys",
+    "percentToQualify": "50",
+    "password": "666666",
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/8qr59V4KWhY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB", 
+            "link": "https://youtu.be/nujIgU7rxbc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
