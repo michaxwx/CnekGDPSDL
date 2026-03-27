@@ -1,0 +1,18 @@
+{
+    "id": 18819,
+    "name": "acropolis REAL preview",
+    "author": "Sky",
+    "creators": ["ninjabeary", "Sky"],
+    "verifier": "ninjabeary",
+    "verification": "https://cdn.discordapp.com/attachments/1025262244948365362/1025262981535240222/Verified_cnek.mp4",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/iJyVvXRVwi8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
