@@ -1,0 +1,18 @@
+{
+    "id": 19041,
+    "name": "Gaming",
+    "author": "Hexagonicals",
+    "creators": ["Hexagonicals", "Mone"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/KvRRwmXpZeQ",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/NxOp4nOsBfw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
