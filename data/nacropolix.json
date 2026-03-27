@@ -1,0 +1,72 @@
+{
+    "id": 1027,
+    "name": "NacropoliX",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k"],
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/ECmtryPoxIw",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/731794243366158396/waaah.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=w9MHvTrSdvM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/4-_WK9MxioE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/bwLC1hjZ85Q",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/osTBJx2O8Gc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/O1PyIuLRBFo",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "ButterFish1413",
+            "link": "https://youtu.be/UVu21qM6rDM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wh1rret",
+            "link": "https://youtu.be/BirB-EfQ-6o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/EdLgjizw0bY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+} 
