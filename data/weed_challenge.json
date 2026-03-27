@@ -1,0 +1,24 @@
+{
+    "id": 5866,
+    "name": "Weed Challenge",
+    "author": "Bubbie",
+    "creators": ["Bubbie"],
+    "verifier": "Bubbie",
+    "verification": "https://youtu.be/YIeLUuRfItc",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/eWTdb6PbzrI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/n4ydeUJFuOk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
