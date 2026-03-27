@@ -1,0 +1,48 @@
+{
+    "id": 4883,
+    "name": "unjacked delpris",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/M-pKZ3uTokU",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/sJBSt3Y72Y0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/Q5J-X-n_Sww",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zurteh",
+            "link": "https://youtu.be/MM9J7SKFisA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Exenity",
+            "link": "https://youtu.be/Mo33ANKtUok",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/6mRgd3nEtg4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/AR4lBGxnZt4",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
