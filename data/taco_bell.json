@@ -1,0 +1,36 @@
+{
+    "id": 2682,
+    "name": "Taco Bell",
+    "author": "Bangaled",
+    "creators": ["Bangaled"], 
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=ipRC5XLucHY",
+    "percentToQualify": "28",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/SjBCVHZ8ZVU",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "Pushenka", 
+            "link": "https://youtu.be/L2Xq6vHg4RQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/976395182708776971/Taco_Bell.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://youtu.be/Bg8SJKby8ZM",
+            "percent": 34,
+            "hz": 360
+        }
+	]
+}

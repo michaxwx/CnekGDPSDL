@@ -1,0 +1,24 @@
+{
+    "id": 3376,
+    "name": "tfibb autoed paroxysm",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/AWS3J91Ss44",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/pXim9xjl4W8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=4K4kj1MH3II",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

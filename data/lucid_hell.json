@@ -1,0 +1,30 @@
+{
+    "id": 3438,
+    "name": "Lucid Hell",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/h3Vv2bo6LGU",
+    "percentToQualify": "32",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/9QhRXCy-QhA",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=ECvrtNyyIdU",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "sauci",
+            "link": "https://youtu.be/2Xx5PMEI6Mw",
+            "percent": 85,
+            "hz": 360
+        }
+	]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 3226,
+    "name": "Mazen",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=i4BYz-gw8jU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Nix",  <- not on the temp list for some reason?
+            "link": "https://youtu.be/tgP9_l9oetY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/6_yYjHl_RrE",
+            "percent": 100,
+            "hz": 144
+        }
+	]
+}

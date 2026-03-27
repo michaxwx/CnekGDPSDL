@@ -1,0 +1,24 @@
+{
+    "id": 20700,
+    "name": "tentic",
+    "author": "Sky",
+    "creators": ["Sky"], 
+    "verifier": "Sky",
+    "verification": "https://youtu.be/jz1d6BuWJfY",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/UOa7AVEXMTU",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=PmBNXoczyWM",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

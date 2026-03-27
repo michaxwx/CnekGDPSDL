@@ -1,0 +1,18 @@
+{
+    "id": 20587,
+    "name": "Wasteland",
+    "author": "Sky",
+    "creators": ["jayneanderson", "michaxwx", "Sky"], 
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=Xyoi6p1nHpY",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Mone", 
+            "link": "https://youtu.be/DQb1-vgYj80",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

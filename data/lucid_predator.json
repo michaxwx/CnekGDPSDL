@@ -1,0 +1,24 @@
+{
+    "id": 2588,
+    "name": "Lucid Hell",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson", "VisVix"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/ZEkvPBbOHOo",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "Pushenka", 
+            "link": "https://www.youtube.com/watch?v=1KMC0dQkk3k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/2s-l2vTk3Oo",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

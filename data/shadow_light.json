@@ -1,0 +1,30 @@
+{
+    "id": 2234,
+    "name": "Shadow Light",
+    "author": "Koozoo2k",
+    "creators": ["TheDestroyer556"], <- is 556 correct?
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/6YVtwztKVGI",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=MuW9-Wh8ViA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/kwSZe7Ze4FI",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "drige", 
+            "link": "https://www.youtube.com/watch?v=_SWq5twxYIE",
+            "percent": 100,
+            "hz": 330
+        }
+	]
+}

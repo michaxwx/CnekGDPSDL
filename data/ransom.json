@@ -1,0 +1,24 @@
+{
+    "id": 19956,
+    "name": "Ransom",
+    "author": "Mone",
+    "creators": ["Aeziz"], 
+    "verifier": "Mone",
+    "verification": "https://youtu.be/p7_75NGf_rs",
+    "percentToQualify": "37",
+    "password": "800085",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=y9RMg_Xu5WY",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "saikuuron", 
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/1126742179591766107/ransom40.mp4",
+            "percent": 40,
+            "hz": 360
+        }
+    ]
+}

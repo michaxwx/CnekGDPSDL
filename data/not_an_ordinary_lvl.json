@@ -1,0 +1,18 @@
+{
+    "id": 20705,
+    "name": "not an ordinary lvl",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/VwmSHBc4_xU",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+    	{
+            "user": "Rulmy", 
+            "link": "https://youtu.be/CufwDE_eOUY",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}
