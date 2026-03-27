@@ -1,0 +1,54 @@
+{
+    "id": 2616,
+    "name": "Cool Name",
+    "author": "Ladaschi",
+    "creators": ["CnekYT", "Ladaschi"],
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/685MpJVIK1A",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "drige",
+            "link": "https://youtu.be/DV2lCaowps8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/-uzUi3apJis",
+            "percent": 100,
+            "hz": 30
+        },
+        {
+            "user": "TDP9",
+            "link": "https://youtu.be/RSuB0GBcI3w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nix",
+            "link": "https://youtu.be/_VPBlwipuVE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/IJX3Uiyfjg4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/L9U2jCXAL7k",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/XbMRheUXD58",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
