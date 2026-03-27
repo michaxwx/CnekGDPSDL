@@ -1,0 +1,36 @@
+{
+    "id": 3714,
+    "name": "Hackusation",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/E47FYWRBex0",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Amza",
+            "link": "https://youtu.be/nMhL3Sfgij4",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/I9IRUvWLi0A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/eW3cV6zKeic",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/YJQ3b8zJjS0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
