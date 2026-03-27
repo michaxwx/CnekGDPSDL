@@ -1,0 +1,24 @@
+{
+    "id": 6360,
+    "name": "Saturnine",
+    "author": "Tabbi",
+    "creators": ["Tabbi"],
+    "verifier": "Tabbi",
+    "verification": "https://youtu.be/5Rb6yzR5JkU?t=547",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "CrabbyCrab101",
+            "link": "https://www.youtube.com/watch?v=r737DWr_T9M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://www.youtube.com/watch?v=UOa7AVEXMTU",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
