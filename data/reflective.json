@@ -1,0 +1,30 @@
+{
+    "id": 19180,
+    "name": "Reflective",
+    "author": "loveKanye",
+    "creators": ["loveKanye", "michaxwx", "Mone"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/rUjg0chKLi4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/1015433341182414930/1058887922037837934/Geometry_Dash_2022.12.25_-_05.29.12.02.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/P_-m6cpEltY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CrabbyCrab101",
+            "link": "https://www.youtube.com/watch?v=UdFI5LbKGIk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
