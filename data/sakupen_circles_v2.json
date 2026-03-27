@@ -1,0 +1,30 @@
+{
+    "id": 5077,
+    "name": "Sakupen Circles V2",
+    "author": "Nix",
+    "creators": ["Nix"],
+    "verifier": "Nix",
+    "verification": "https://youtu.be/usx342ITRc",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/GE0sOSr83f4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/v_ZRWk54pJ0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/s_5KaOCE4PQ",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+} 
