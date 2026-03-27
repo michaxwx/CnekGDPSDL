@@ -1,0 +1,42 @@
+{
+    "id": 5769,
+    "name": "Event Horizon",
+    "author": "Reupload",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/kHRmng0rxoA",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Exenity",
+            "link": "https://youtu.be/hi27w2WEomk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/SwhRk3wZ49c",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.google.com/url?q=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fiv9d6brhoys8n4z%2FBase_Profile_2022.04.07_-_12.08.21.02.DVR_Trim.mp4%2Ffile&sa=D&sntz=1&usg=AOvVaw15pibASFQ4SjSfOgLwfibG",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/epKgDvy00oE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/5ZVGgJuWjuE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
