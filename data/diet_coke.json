@@ -1,0 +1,42 @@
+{
+    "id": 5707,
+    "name": "DIET COKE",
+    "author": "vehmic",
+    "creators": ["vehmic"], 
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/bnGySNbZ6X8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Pushenka", 
+            "link": "https://www.youtube.com/watch?v=PXTIO9G_PyM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/mlj43IojNes",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/rb0_9T5BriE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/MbDNZQAN4Zo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
