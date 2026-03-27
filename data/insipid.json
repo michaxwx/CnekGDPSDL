@@ -1,0 +1,66 @@
+{
+    "id": 3183,
+    "name": "Insipid",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/KSCBKqnc-BM",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/832877931767267338/Base_Profile_2021.04.17_-_03.17.15.03.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://www.youtube.com/watch?v=suiHlLJHCD4",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Swoosh",
+            "link": "https://youtu.be/eEO5-jLtcbI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/w2SnUJxQpjQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/tPKjImfj4Yk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/TTt4zjjhBpk",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "fruitsalad",
+            "link": "https://youtu.be/QLLQPkY7s3o",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "IdeaX",
+            "link": "https://cdn.discordapp.com/attachments/456498969850150942/945477001760878602/Idea_Insipid.mp4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ninjabeary",
+            "link": "https://cdn.discordapp.com/attachments/950472853038448670/958273165795164180/2022-03-28_23-19-09.mp4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
