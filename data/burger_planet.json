@@ -1,0 +1,24 @@
+{
+    "id": 3714,
+    "name": "Burger Planet",
+    "author": "DissmoBob",
+    "creators": ["DissmoBob"],
+    "verifier": "DissmoBob",
+    "verification": "https://youtu.be/lyOYUafe6Ds",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/7kkgH6eoBX4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/RX67Jj75my4",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
