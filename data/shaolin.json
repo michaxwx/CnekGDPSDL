@@ -1,0 +1,48 @@
+{
+    "id": 3836,
+    "name": "Shaolin",
+    "author": "Nijil",
+    "creators": ["jayneanderson", "Nijil"],
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/Zg3zbnGKeZ4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Heater123",
+            "link": "https://youtu.be/PH_1mJnmK3o",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/sqHd8JwZa3w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/S5vV8vIz7OI",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/OkQsx6qku2g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Flakjacket",
+            "link": "https://youtu.be/AbSPpHW2cdc",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/otCwZXtkZLQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
