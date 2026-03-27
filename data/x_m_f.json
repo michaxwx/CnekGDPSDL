@@ -1,0 +1,24 @@
+{
+    "id": 18480,
+    "name": "X M F",
+    "author": "Sky",
+    "creators": ["aidaboo", "Sky"],
+    "verifier": "aidaboo",
+    "verification": "https://youtu.be/kB5HHugjsuU",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/6QRf81cu6jU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/cB63ZZQY2S8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
