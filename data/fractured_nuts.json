@@ -1,0 +1,48 @@
+{
+    "id": 3236,
+    "name": "Fractured Nuts",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/EYq3_M8Hm3s",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/nUwVoXSI5s0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Heater123",
+            "link": "https://youtu.be/djELF92R7uM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/hMj6Dhp0TFU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/JxTplrPuhz4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/LdtKPdIBEJs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
