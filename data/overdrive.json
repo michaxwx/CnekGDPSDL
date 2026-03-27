@@ -1,0 +1,120 @@
+{
+    "id": 1060,
+    "name": "OVERDRIVE",
+    "author": "KrisKing",
+    "creators": ["KrisKing"],
+    "verifier": "KrisKing",
+    "verification": "https://youtu.be/BhX_UVP4yVw",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/732421496672092281/smile.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/2aSWRO3OmQc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/fGn7gTYHips",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=l1QZx9jFZm4&feature=youtu.be",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Celected",
+            "link": "https://cdn.discordapp.com/attachments/700458938034028564/743196483549134968/OVERDRIVE_100.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nijil",
+            "link": "https://youtu.be/Svg_zrDZv1M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://www.youtube.com/watch?v=M6ottmF1VEo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/9Xv_mjfyMpU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/I3JgBtWjrDU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "wh1rret",
+            "link": "https://youtu.be/BTen2c-cQmg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/xYL8GFKUcfs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/968333679732621353/2022-04-25_18-35-08_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/ryLvKOhjecc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Amza",
+            "link": "https://youtu.be/ncLgRU_-1RA",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/xqqDGz0vf48",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/_ngaTIKjXEs",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "CycloneGDP",
+            "link": "https://www.youtube.com/watch?v=sIsDX72tnz4",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}
