@@ -1,0 +1,84 @@
+{
+    "id": 45,
+    "name": "GustY Circles",
+    "author": "VioletJ",
+    "creators": ["VioletJ"], 
+    "verifier": "VioletJ",
+    "verification": "https://youtu.be/IHizwfuKU0M",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/YPl0D6FaZGo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=z4WOvKzk8Sg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing", 
+            "link": "https://youtu.be/-ka9CGKbH2g",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zpice",
+            "link": "https://youtu.be/fn0vkBOufyo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/sObH9gJGJww",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "zBanan", 
+            "link": "https://youtu.be/YurHz1_zIPs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/qA2rWLLoP4I",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Rulmy", 
+            "link": "https://youtu.be/pFKezHNfg60",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/PlkTeLJhatE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/5Kk2IVKfIoc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/OrOWU2yTOJA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zekek",
+            "link": "https://www.youtube.com/watch?v=hRd7C-HBxkg",
+            "percent": 100,
+            "hz": 90
+        }
+	]
+}
