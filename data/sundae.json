@@ -1,0 +1,48 @@
+{
+    "id": 2073,
+    "name": "sundae",
+    "author": "fourtex",
+    "creators": ["fourtex"],
+    "verifier": "fourtex",
+    "verification": "https://youtu.be/iayFL26PboM",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/80d7F_LURRs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/705892916178190457/833648557168263188/Base_Profile_2021.04.19_-_06.20.05.02.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/bcy2pkcjJOQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/dyXGGEBkI7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/77PK9kU4U74",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bubbie",
+            "link": "https://youtu.be/6q8r9fXgW_A",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
