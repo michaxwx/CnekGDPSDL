@@ -1,0 +1,30 @@
+{
+    "id": 3633,
+    "name": "SHIVER",
+    "author": "zBanan",
+    "creators": ["zBanan"],
+    "verifier": "zBanan",
+    "verification": "https://youtu.be/oxqPW8WhXz4",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "drige",
+            "link": "https://youtu.be/K2m_SRy-Qho",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/ezcy80xhb4k",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/ZoxBhgZwJhs",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
