@@ -1,0 +1,30 @@
+{
+    "id": 18934,
+    "name": "Final D",
+    "author": "Exenity",
+    "creators": ["Exenity", "Sky"],
+    "verifier": "Brittank88",
+    "verification": "https://youtu.be/Az3NlRMzXnM",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/herre9izv3c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/952370164182171648/1051073756359036959/Desktop_2022.12.08_-_04.19.45.03.DVR_Trim_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=SYcIrzbimAY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
