@@ -1,0 +1,54 @@
+{
+    "id": 4021,
+    "name": "Hell Fire",
+    "author": "CnekYT",
+    "creators": ["CnekYT"], 
+    "verifier": "Gelforce",
+    "verification": "https://youtu.be/7MI76tvha70",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/JQaOiyKOW7g",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/t-Qg6S0OU4A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/qaqfo4umvuM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kaza",
+            "link": "https://youtu.be/Sjb6wg-7dak",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/KaGxe0zaNGc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Baba", 
+            "link": "https://youtu.be/hCHBrvfD6uE",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

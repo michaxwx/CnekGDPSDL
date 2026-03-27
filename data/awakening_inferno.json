@@ -1,0 +1,48 @@
+{
+    "id": 3865,
+    "name": "Awakening Inferno",
+    "author": "Exenity",
+    "creators": ["Exenity"], 
+    "verifier": "Exenity",
+    "verification": "https://youtu.be/XZIb3uyaONk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/rz1ArVGWyfo",
+            "percent": 100,
+            "hz": 144
+        },
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/dEkPzDtXH5g",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/RrIDAQTfPMM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka", 
+            "link": "https://youtu.be/p7Sa0t2dTHs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/d37A3v4O1Nw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/bMeV5jqPwWs",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

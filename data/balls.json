@@ -1,0 +1,42 @@
+{
+    "id": 4886,
+    "name": "Balls",
+    "author": "Deadblue",
+    "creators": ["Deadblue"], 
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/rD3DuU7JPe8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/EMcuNPlpRAA",
+            "percent": 100,
+            "hz": 300
+        },
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/MyAA9OaHg6Y",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/5Kk2IVKfIoc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/yxCXMhxIAX4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Gelforce",
+            "link": "https://youtu.be/KjAca2q7UyI",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

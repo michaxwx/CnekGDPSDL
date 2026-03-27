@@ -1,0 +1,48 @@
+{
+    "id": 5551,
+    "name": "DSIS Infinity",
+    "author": "Mone",
+    "creators": ["epig", "Mesi"], 
+    "verifier": "Mone",
+    "verification": "https://youtu.be/haqEjhNOb_k",
+    "percentToQualify": "100",
+    "password": "800085",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://cdn.discordapp.com/attachments/1015433341182414930/1058936320707276931/Geometry_Dash_2022.12.31_-_21.33.10.16.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/cA5Eh7fifVc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/pgGoCuvXl58",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Baba", 
+            "link": "https://youtu.be/Fy6M3ayqDx8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Pushenka", 
+            "link": "https://cdn.discordapp.com/attachments/1015433341182414930/1058936320707276931/Geometry_Dash_2022.12.31_-_21.33.10.16.DVR_Trim.mp4?ex=6816d24c&is=681580cc&hm=c36cb97d269c85bd5c358984af421afdc10c6bbb8886b882247ce87b0c1af228&",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "hei", 
+            "link": "https://www.youtube.com/watch?v=P4alINXEmcc&lc=UgzJ-sq6ZghQyrUgVcZ4AaABAg",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

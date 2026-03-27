@@ -1,0 +1,48 @@
+{
+    "id": 3068,
+    "name": "Rainforest",
+    "author": "tc7742",
+    "creators": ["tc7742"], 
+    "verifier": "tc7742",
+    "verification": "https://youtu.be/qle6FzS98bs",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/Xwb9XQP6NAs",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/YOq2oNuXsL4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gelforce", 
+            "link": "https://youtu.be/l6FWMjTPDYk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/kaSLCnIl6R8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mone", 
+            "link": "https://youtu.be/rRQ0DI4cK5M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sky", 
+            "link": "https://www.youtube.com/watch?v=mfpU0k5H8tU",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 2740,
+    "name": "Late",
+    "author": "Bangaled",
+    "creators": ["Bangaled"], 
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=fR7bL4j0jRs",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "LLunaa",
+            "link": "https://www.youtube.com/watch?v=Aqk6AyFzFug",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/EIIWj0Z97aI",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/u47vAak4nA0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kaza", 
+            "link": "https://youtu.be/ncLgRU_-1RA",
+            "percent": 100,
+            "hz": 300
+        }
+	]
+}

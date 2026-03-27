@@ -1,0 +1,36 @@
+{
+    "id": 1914,
+    "name": "ARMAGGEDON",
+    "author": "KrisKing",
+    "creators": ["Skell"], 
+    "verifier": "KrisKing",
+    "verification": "https://youtu.be/xpyOd4dF1mE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=aak0LeOig5A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/Kbsoqia3xeE",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Bangaled", 
+            "link": "https://youtu.be/ZCn0wJ5MPk8",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "zekek", 
+            "link": "https://www.youtube.com/watch?v=Xgh9PotAda8",
+            "percent": 100,
+            "hz": 90
+        }
+	]
+}

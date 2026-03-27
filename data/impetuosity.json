@@ -1,0 +1,42 @@
+{
+    "id": 2752,
+    "name": "Impetuosity",
+    "author": "Gabby5820",
+    "creators": ["Gabby5820"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://www.youtube.com/watch?v=8R1MQSOIY_k",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "Bangaled", 
+            "link": "https://youtu.be/pZE6i68uG9w",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=8mSFTrq0ps8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/-t_7Xvvru5E",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Nix",
+            "link": "https://youtu.be/k2uQaZGwymI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/5Kk2IVKfIoc",
+            "percent": 100,
+            "hz": 288
+        }
+	]
+}

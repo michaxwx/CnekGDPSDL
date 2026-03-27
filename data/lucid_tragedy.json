@@ -1,0 +1,18 @@
+{
+    "id": 6656,
+    "name": "Lucid Tragedy",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/Ny50kLKov30",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "zMrMummy", 
+            "link": "https://youtu.be/lXWA26CgU_w",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

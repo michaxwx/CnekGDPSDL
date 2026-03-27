@@ -1,0 +1,96 @@
+{
+    "id": 1004,
+    "name": "sAlvAtIOn",
+    "author": "Koozoo2k",
+    "creators": ["Skell"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/D0h45AjsYYU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/eozqVA0vZqc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=7upWLlUyISo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing", 
+            "link": "https://youtu.be/RgwLRRO6lKE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/hJIpgfkUPlg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "makiriko", 
+            "link": "https://youtu.be/k2oiXI1FWjM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742", 
+            "link": "https://youtu.be/lqMFMN-UZNs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/l5FGmZbeidE",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/QEdf1kePcW8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "zMrMummy", 
+            "link": "https://youtu.be/3ut7-b4iXUg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kaza",
+            "link": "https://youtu.be/ncLgRU_-1RA",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/5Kk2IVKfIoc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/5EP35f_3QB4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Baba", 
+            "link": "https://youtu.be/YPMSeIDV-ds?si=lByvhLP3Dn92058O",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Rulmy", 
+            "link": "https://www.youtube.com/watch?v=Dn76l_h2pvA",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

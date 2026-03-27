@@ -1,0 +1,36 @@
+{
+    "id": 2759,
+    "name": "Sharp Lights",
+    "author": "Taehyunie",
+    "creators": ["Taehyunie"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/By_uXxm_Ads",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=7zkpYszYiYE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/mqNdpPemscc",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/Srk2voz2tiw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nix", 
+            "link": "https://youtu.be/jVUkd8ZZ2Ns",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

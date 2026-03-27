@@ -1,0 +1,36 @@
+{
+    "id": 3040,
+    "name": "Old Trash",
+    "author": "DeadUnfinished",
+    "creators": ["Bangaled"], 
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/WvOEqlmJbXM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/fCZQ8RYEtuU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/KZAMMkSYypU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing", 
+            "link": "https://youtu.be/rs-v9kWKjpY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/q7SnAkhZN7w",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

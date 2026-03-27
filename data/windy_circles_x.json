@@ -1,0 +1,48 @@
+{
+    "id": 412,
+    "name": "Windy Circles X",
+    "author": "Lilth",
+    "creators": ["Lilth"], 
+    "verifier": "Magmeta",
+    "verification": "https://youtu.be/rxuNYkgbkbs",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/hCpS5HgM6FY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=sVo5NlhraCI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing", 
+            "link": "https://youtu.be/WW3DQo2qhj4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/sYwwEaAIuQc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/bHW5hhWLPjo",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/5Kk2IVKfIoc",
+            "percent": 100,
+            "hz": 288
+        }
+	]
+}

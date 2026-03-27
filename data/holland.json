@@ -1,0 +1,18 @@
+{
+    "id": 19440,
+    "name": "Holland",
+    "author": "Gelforce",
+    "creators": ["Sky"], 
+    "verifier": "Gelforce",
+    "verification": "https://youtu.be/ATQa_7cBQII",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "CrabbyCrab101", 
+            "link": "https://www.youtube.com/watch?v=A6PjZDtSLhc",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

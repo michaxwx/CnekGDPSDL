@@ -1,0 +1,24 @@
+{
+    "id": 20914,
+    "name": "The Archangel",
+    "author": "ItsUtopia",
+    "creators": ["Blexood"], 
+    "verifier": "Daxy",
+    "verification": "https://www.youtube.com/watch?v=_gbFK4yiue8",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=Supz_S_i6RY",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/963821840390848512/1478863438527860977/the_archangeL.mp4?ex=69a9f267&is=69a8a0e7&hm=a8f89b8567e3a9ac287ff77bb125f7437f8c04f3ad77c01cdda0055a036255a9&",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

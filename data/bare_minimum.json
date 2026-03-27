@@ -1,0 +1,78 @@
+{
+    "id": 5553,
+    "name": "Bare Minimum",
+    "author": "promaster11",
+    "creators": ["promaster11"], 
+    "verifier": "Mone",
+    "verification": "https://youtu.be/0odGaXfivrY",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/4ENKl0Lvqt0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/jzdjaOXgDrE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB", 
+            "link": "https://youtu.be/B_35YSwFxbo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/-QA47YfNnzY",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Gelforce", 
+            "link": "https://youtu.be/hEfon3Hp5g0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy", 
+            "link": "https://youtu.be/1ErLtS7dTFo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "beary",
+            "link": "https://cdn.discordapp.com/attachments/861114766026473523/1024921958539866192/Bare_Minimum_Complete.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/JkXZXRDfxO0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "kathryn",
+            "link": "https://cdn.discordapp.com/attachments/953167049008508948/1036872724095705108/IMG_8543.mov",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky", 
+            "link": "https://youtu.be/0Q7Y6Hp1-D8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://www.youtube.com/watch?v=SYcIrzbimAY",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

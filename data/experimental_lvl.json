@@ -1,0 +1,30 @@
+{
+    "id": 1777,
+    "name": "experimental lvl",
+    "author": "KrisKing",
+    "creators": ["KrisKing"], 
+    "verifier": "KrisKing",
+    "verification": "https://youtu.be/7Fy25VldVVQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=tvcSAKRkKo0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/syxe4d4n8GA",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN", 
+            "link": "https://youtu.be/5Kk2IVKfIoc",
+            "percent": 100,
+            "hz": 288
+        }
+	]
+}

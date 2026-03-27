@@ -1,0 +1,42 @@
+{
+    "id": 19639,
+    "name": "Makeup",
+    "author": "saikuuron",
+    "creators": ["loveKanye", "michaxwx", "saikuuron"], 
+    "verifier": "saikuuron",
+    "verification": "https://youtu.be/fSqCIhj2-cw",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "Rulmy", 
+            "link": "https://youtu.be/q1j89ja07DQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/m2JJz1CI0PE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mone", 
+            "link": "https://youtu.be/W_otxDE3VfA?si=KmNkEyH94F03AvZk",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "drige", 
+            "link": "https://youtu.be/W_otxDE3VfA?si=KmNkEyH94F03AvZk",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "TheDestroyer465",
+            "link": "https://www.youtube.com/watch?v=znkn0rQ18X0",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

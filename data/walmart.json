@@ -1,0 +1,54 @@
+{
+    "id": 2859,
+    "name": "Walmart",
+    "author": "promaster11",
+    "creators": ["promaster11"], 
+    "verifier": "piesy",
+    "verification": "https://youtu.be/DlQnZoYD-gM",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=c_LPyPga1M4E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/UDVvVeEQlrY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LLunaa", 
+            "link": "https://youtu.be/vMnxYNqJ9vM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/gjST0KIPp8M",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "zMrMummy", 
+            "link": "https://youtu.be/HS_FcUEwYwg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mone", 
+            "link": "https://youtu.be/i0sSK07YNfs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "drige", 
+            "link": "https://www.youtube.com/watch?v=-HimDvo5BVk",
+            "percent": 100,
+            "hz": 330
+        }
+	]
+}
