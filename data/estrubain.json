@@ -1,11 +1,18 @@
 {
-    "id": 20685,
-    "name": "Renfrew",
-    "author": "Koozoo2k",
-    "creators": ["Koozoo2k"], 
-    "verifier": "Koozoo2k",
-    "verification": "https://youtu.be/6qGPIt-of80?si=EHPCnxj0Lb_fRAgK",
+    "id": 20666,
+    "name": "Estrubain",
+    "author": "Exenity",
+    "creators": ["Exenity"],
+    "verifier": "Exenity",
+    "verification": "https://www.youtube.com/watch?v=SYcIrzbimAY",
     "percentToQualify": "100",
     "password": "No Copy",
-    "records": []
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=fpTNucz9rvU",
+            "percent": 100,
+            "hz": 0
+        }
+	]
 }
