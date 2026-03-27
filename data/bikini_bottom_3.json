@@ -1,0 +1,36 @@
+{
+    "id": 5776,
+    "name": "Bikini Bottom 3", 
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/xNJfNquE878",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/SzgWFsFDsmU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://www.youtube.com/watch?v=JeiEAl66gVU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/19Px1RjeG4s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
