@@ -1,0 +1,18 @@
+{
+    "id": 5916,
+    "name": "eNTrY pOInt", 
+    "author": "sauci",
+    "creators": ["cunk", "sauci"], 
+    "verifier": "cunk",
+    "verification": "https://youtu.be/RbRi39mFRFk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAcb",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
