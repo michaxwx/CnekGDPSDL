@@ -1,0 +1,72 @@
+{
+    "id": 1890,
+    "name": "o o f",
+    "author": "alexismelonz",
+    "creators": ["alexismelonz"],
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/CaGP7utPFfQ",
+    "percentToQualify": "100",
+    "password": "977977", 
+    "records": [
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/JZY1nsuEWlY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=sQjbaN418PY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/Ljv68O8Qujc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/6Oka_i-8hCo",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.twitch.tv/videos/1197286425",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/968754878941900840/2021-12-27_20-59-14_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/2zsXqvClEwo",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/PtI1tm7vV40",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtube.com/watch?v=dM046PVTQNg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/VEKE8lZol0Y",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
