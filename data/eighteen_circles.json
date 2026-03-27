@@ -1,0 +1,48 @@
+{
+    "id": 2461,
+    "name": "Eighteen Circles",
+    "author": "NewVoxEnergy",
+    "creators": ["NewVoxEnergy"],
+    "verifier": "NewVoxEnergy",
+    "verification": "https://youtu.be/8vLmmf42dt4",
+    "percentToQualify": "100",
+    "password": "888227", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=si18DRUwrL4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Daxy",
+            "link": "https://www.youtube.com/watch?v=DHnKf-5CH0w",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/TzOKnJBDG68",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/5htcI6o8_Wg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "CrabbyCrab101",
+            "link": "https://www.youtube.com/watch?v=kv0eZWQoN1Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
