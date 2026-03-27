@@ -1,0 +1,36 @@
+{
+    "id": 3763,
+    "name": "Embers",
+    "author": "Durians",
+    "creators": ["Durians"], 
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=ZAl_-RJhYrs",
+    "percentToQualify": "62",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB", 
+            "link": "https://youtu.be/8Fcm7ZwoxDY",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "Pushenka", 
+            "link": "https://youtu.be/RsvimalgY6E",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CookieIsMine", 
+            "link": "https://youtu.be/_pqygZXlWMI",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "CnekYT", 
+            "link": "https://youtu.be/VN8mHM3FrH4",
+            "percent": 65,
+            "hz": 144
+        }
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 20718,
+    "name": "Kronos",
+    "author": "Yosem",
+    "creators": ["Helix"], <- as per the level desc
+    "verifier": "burhman",
+    "verification": "https://youtu.be/WiC5ICawsjk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/uKE8Fa2z0zA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=vFCVv1YZHgs",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

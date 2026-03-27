@@ -1,0 +1,30 @@
+{
+    "id": 5238,
+    "name": "JordanTRS is Crazens alt",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/bDFYE7Gw2es",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/JFPXPXlp0ug",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CookieIsMine", 
+            "link": "https://cdn.discordapp.com/attachments/963910182444871730/968739158426271764/2022-04-26_21-07-06_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "sauci",
+            "link": "https://youtu.be/nFq2SvrTxH0",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

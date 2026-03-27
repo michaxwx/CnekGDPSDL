@@ -1,0 +1,18 @@
+{
+    "id": 18682,
+    "name": "Kanyes Slaughterhouse",
+    "author": "michaxwx",
+    "creators": ["michaxwx"], 
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/4LjunAsylLQ",
+    "percentToQualify": "50",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/8NuptHUKv_I",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

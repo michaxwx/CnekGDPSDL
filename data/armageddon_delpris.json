@@ -1,0 +1,24 @@
+{
+    "id": 1986,
+    "name": "Armageddon Delpris",
+    "author": "TFIBB",
+    "creators": ["Bangaled"], 
+    "verifier": "TFIBB",
+    "verification": "https://www.youtube.com/watch?v=LqPkWRjbyN8",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=lUqOKnRGebM",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/QrY9js3SmvI?t=182",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

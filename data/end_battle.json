@@ -1,0 +1,18 @@
+{
+    "id": 6668,
+    "name": "End Battles",
+    "author": "Kaza",
+    "creators": ["drige", "Kaza"], 
+    "verifier": "Kaza",
+    "verification": "https://youtu.be/UmaxJ-J_R9k",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/g7fUrkCdpUg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

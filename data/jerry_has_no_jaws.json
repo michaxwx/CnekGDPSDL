@@ -1,0 +1,24 @@
+{
+    "id": 19465,
+    "name": "Jerry has no jaws",
+    "author": "fusion425",
+    "creators": ["fusion425"], 
+    "verifier": "fusion425",
+    "verification": "https://youtu.be/odVGJYQUWeI",
+    "percentToQualify": "50",
+    "password": "423978",
+    "records": [
+    	{
+            "user": "Exenity", 
+            "link": "https://www.youtube.com/watch?v=RGoBrkiJNko",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/8T90X08wsuw",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 5242,
+    "name": "InterroBANG",
+    "author": "Deadblue",
+    "creators": ["Deadblue"], 
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/1D7-jbspuQE",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/e0EmjcMcnGY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB", 
+            "link": "https://youtu.be/ekT4gPdhmJU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "sauci", 
+            "link": "https://youtu.be/XI9AoHq1Fy0?t=2365",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/UIdks9VigH4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "drige", 
+            "link": "https://youtu.be/mhxNOG_yLI4",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

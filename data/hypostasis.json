@@ -1,0 +1,30 @@
+{
+    "id": 5981,
+    "name": "Hypostasis",
+    "author": "zMrMummy",
+    "creators": ["zMrMummy"], 
+    "verifier": "zMrMummy",
+    "verification": "https://youtu.be/4WEh0rs_IY8",
+    "percentToQualify": "49",
+    "password": "133769",
+    "records": [
+        {
+            "user": "TFIBB", 
+            "link": "https://youtu.be/Iob0vEDK2ac",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/570UDNaRVhw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/z4-XIZj1x6M",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

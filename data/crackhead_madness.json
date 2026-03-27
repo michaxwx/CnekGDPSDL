@@ -1,0 +1,36 @@
+{
+    "id": 5400,
+    "name": "Crackhead Madness",
+    "author": "CnekYT",
+    "creators": ["Butterfish"], 
+    "verifier": "Butterfish",
+    "verification": "https://youtu.be/a2J-hRvSwv0",
+    "percentToQualify": "53",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/Rt_tVFALphk",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "Remy", 
+            "link": "https://youtu.be/pAnEktjL4Ng",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://cdn.discordapp.com/attachments/951898757295910942/1049180675896520774/2022-12-04_19-42-26_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://www.youtube.com/watch?v=ETcKm1U28j8",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

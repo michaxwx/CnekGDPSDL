@@ -1,0 +1,24 @@
+{
+    "id": 4889,
+    "name": "Doomsday Tarnish",
+    "author": "CnekYT",
+    "creators": ["CnekYT", "Gelforce's Friend"], 
+    "verifier": "Gelforce",
+    "verification": "https://youtu.be/Iw1kJxs4R20",
+    "percentToQualify": "57",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB", 
+            "link": "https://youtu.be/jz3hrZFCGhc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/X6o_S4sH-S0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

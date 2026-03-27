@@ -1,0 +1,42 @@
+{
+    "id": 6036,
+    "name": "LayoutCore",
+    "author": "CreatorTad",
+    "creators": ["CreatorTad", "Mone"], <- NOT doing that thing again this is as per the site
+    "verifier": "Mone",
+    "verification": "https://youtu.be/1ZkIDuDd1Ac",
+    "percentToQualify": "50",
+    "password": "696969",
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/cyuX3rmJzMU",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/AcIDz588TFI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/vw9xc1npCSY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kaza", 
+            "link": "https://youtu.be/jxGkC_xS-pM",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=SYcIrzbimAY",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

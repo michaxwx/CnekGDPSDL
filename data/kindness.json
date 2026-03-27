@@ -1,0 +1,36 @@
+{
+    "id": 6488,
+    "name": "KINDNESS",
+    "author": "Mone",
+    "creators": ["Mone"], 
+    "verifier": "Kaza",
+    "verification": "https://youtu.be/wYMXs2uUwbk",
+    "percentToQualify": "57",
+    "password": "No Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/IywQ9S9Z9_Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/xZEWUHly-Lk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zMrMummy", 
+            "link": "https://youtu.be/Gxm--GRHmtk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "drige", 
+            "link": "https://youtu.be/q-jhEtOg53c",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

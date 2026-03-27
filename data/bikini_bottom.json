@@ -1,0 +1,36 @@
+{
+    "id": 5726,
+    "name": "Bikini Bottom",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/xNJfNquE878",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CookieIsMine", 
+            "link": "https://cdn.discordapp.com/attachments/915991680606404639/960101495175532544/2022-04-03_01-56-15_Trim_2.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/vFD3ZN9nnTE",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/dA5GCbBUQAI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/A92XegN0MR0",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

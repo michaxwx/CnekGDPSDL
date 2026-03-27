@@ -1,0 +1,36 @@
+{
+    "id": 5551,
+    "name": "Eleventh Triangle",
+    "author": "Mone",
+    "creators": ["Deadblue", "Gabby5820", "Ladaschi", "Mone"], 
+    "verifier": "Mone",
+    "verification": "https://youtu.be/haqEjhNOb_k",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/1QmziuwWli4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/kNmP1ghx9zU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka", 
+            "link": "https://youtu.be/VqXSEjYgjR0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gelforce", 
+            "link": "https://youtu.be/HQYPxg7wwiE",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

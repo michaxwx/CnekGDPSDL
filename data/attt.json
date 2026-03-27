@@ -1,0 +1,30 @@
+{
+    "id": 6125,
+    "name": "Attt",
+    "author": "Butterfish",
+    "creators": ["Exenity"], 
+    "verifier": "Butterfish",
+    "verification": "https://www.youtube.com/watch?v=Bmbua1QaanQ",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/p0xRQH9uPZw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Exenity", 
+            "link": "https://youtu.be/3ApfPsFSMN8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=RhsJhLEoIbw",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}

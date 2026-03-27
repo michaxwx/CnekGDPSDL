@@ -1,0 +1,30 @@
+{
+    "id": 5056,
+    "name": "Karpet Kleaning Korporation",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/w4oyL3odYaU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/_dCEy5UIs6c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/X-07OTGP-7w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled", 
+            "link": "https://youtu.be/5OVnJ2kLJRI",
+            "percent": 100,
+            "hz": 144
+        }
+	]
+}

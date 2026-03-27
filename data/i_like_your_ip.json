@@ -1,0 +1,24 @@
+{
+    "id": 4888,
+    "name": "i like your ip",
+    "author": "Deadblue",
+    "creators": ["Creepery", "Deadblue", "drige", "jayneanderson", "Sky", "Taehyunie"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/Pe2lQctwAuw",
+    "percentToQualify": "54",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://youtu.be/w6DBhDGIuyE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/WbKu6wH6hCw",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

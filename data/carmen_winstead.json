@@ -1,0 +1,18 @@
+{
+    "id": 19640,
+    "name": "Carmen Winstead",
+    "author": "CrabbyCrab101",
+    "creators": ["CrabbyCrab101"], 
+    "verifier": "CrabbyCrab101",
+    "verification": "https://youtu.be/_fW6casJSIQ",
+    "percentToQualify": "40",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/pUgp4ECmos8",
+            "percent": 100,
+            "hz": 120
+        }
+	]
+}

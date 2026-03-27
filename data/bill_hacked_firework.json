@@ -1,0 +1,18 @@
+{
+    "id": 2826,
+    "name": "bill hacked firework",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "hhttps://youtu.be/2Wtm5t57Clc",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "TFIBB", 
+            "link": "https://www.youtube.com/watch?v=erN5_BrCooI",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

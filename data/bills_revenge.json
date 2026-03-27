@@ -1,0 +1,18 @@
+{
+    "id": 3207,
+    "name": "Bills Revenge",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/nLlp3vRQ_8o",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    	{
+            "user": "drige", 
+            "link": "https://www.youtube.com/watch?v=sEP-h50_mvQ",
+            "percent": 100,
+            "hz": 0
+        }
+	]
+}
