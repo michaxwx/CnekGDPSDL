@@ -1,0 +1,48 @@
+{
+    "id": 3627,
+    "name": "working woman",
+    "author": "promaster11",
+    "creators": ["Mone", "promaster11"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/rFoDTbfbI7M",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/91gjwSSIvrU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/WRgpBQph_Yw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/9wY9PsHb43M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://twitter.com/xSkySkySkySkyx/status/1530746127141724161",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/nsUz4c12lmw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
