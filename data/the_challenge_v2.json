@@ -1,0 +1,54 @@
+{
+    "id": 479,
+    "name": "The Challenge V2",
+    "author": "VioletJ",
+    "creators": ["VioletJ"],
+    "verifier": "VioletJ",
+    "verification": "https://youtu.be/EvuKtZNCVts",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/kdjoUXXvwBg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/772106580669759508/809944115995213834/Base_Profile_2021.02.12_-_19.27.36.02.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/d4uN3LbXx40",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/ZRFvEunNph4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/ZgGdL5vPImA",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/n6EdZxBML3Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/dsUT_owa-44",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
