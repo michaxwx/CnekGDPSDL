@@ -1,0 +1,97 @@
+{
+    "id": 451,
+    "name": "War Machine",
+    "author": "Lilth",
+    "creators": ["Lilth", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/Rf0mSX9JFdQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/r5q7aMtEnT4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Yosem",
+            "link": "https://youtu.be/nGw1geHI1-M",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/zyE_xhMeRuo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Lawnmower",
+            "link": "https://youtu.be/AlhPS4wSb5g",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://youtu.be/0BbbcXFuRmE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://youtu.be/3R0IXNgktm4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=sDGrDrsqhQo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zekekGD",
+            "link": "https://youtu.be/cNmW12JpDDA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/YiMmHpFDZTs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/YWV7mQ0WN1I",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/aevL9rW_bN0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/u2VylLrgHbs",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "TheDestroyer456",
+            "link": "https://youtu.be/WiAqxSxeUXo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+
+  ]
