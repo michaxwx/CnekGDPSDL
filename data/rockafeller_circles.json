@@ -1,9 +1,9 @@
 {
     "id": 20433,
     "name": "Rockafeller Circles",
-    "author": "Magmeta", <- account name: Magma?
-    "creators": ["Magmeta"], 
-    "verifier": "Magmeta",
+    "author": "Magma"
+    "creators": ["Magma"], 
+    "verifier": "Magma",
     "verification": "https://www.youtube.com/watch?v=O_CGjEVt0DA",
     "percentToQualify": "100",
     "password": "No Copy",
