@@ -1,0 +1,36 @@
+{
+    "id": 5894,
+    "name": "Isolation",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/2Gr3JUY-3NU",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/2gNjPtN6jVg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/vm3nuKXkf_A",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "ninjabeary",
+            "link": "https://cdn.discordapp.com/attachments/861114766026473523/1024921962042118214/Isolation_Complete.mp4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
