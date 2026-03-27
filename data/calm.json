@@ -1,0 +1,24 @@
+{
+    "id": 3299,
+    "name": "Calm",
+    "author": "Exenity",
+    "creators": ["Exenity", "Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/m53P4XUq9QU",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/bV8yEMyUnO4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CrabbyCrab101",
+            "link": "https://www.youtube.com/watch?v=PWQ7OEb76fw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+} 
