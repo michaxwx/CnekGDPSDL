@@ -2,7 +2,7 @@
     "id": 6036,
     "name": "LayoutCore",
     "author": "CreatorTad",
-    "creators": ["CreatorTad", "Mone"], <- NOT doing that thing again this is as per the site
+    "creators": ["CreatorTad", "Mone"],
     "verifier": "Mone",
     "verification": "https://youtu.be/1ZkIDuDd1Ac",
     "percentToQualify": "50",
