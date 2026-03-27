@@ -1,0 +1,60 @@
+{
+    "id": 1852,
+    "name": "late halloween level lol",
+    "author": "SiIvaGunner",
+    "creators": ["SiIvaGunner", "TFIBB"],
+    "verifier": "TFIBB",
+    "verification": "https://cdn.discordapp.com/attachments/772106580669759508/809594264970854441/Base_Profile_2021.02.11_-_20.17.46.04.DVR_Trim.mp4",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "Bangaled",
+            "link": "https://www.youtube.com/watch?v=3dhKjqSRFD8&ab_channel=Bangaled",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/XB4w35gUFxk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/JBxCOVHou3E",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LLunaa",
+            "link": "https://youtu.be/Aqk6AyFzFug",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Daxy",
+            "link": "https://youtu.be/tcskgw2fKUc",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/TVfGjYMzXQI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/8YQ8hpxH2TU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/oQJ3B1o6PIk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
