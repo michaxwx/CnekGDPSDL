@@ -1,0 +1,48 @@
+{
+    "id": 3649,
+    "name": "CRAZENS PRIVATE PART CIRCLES",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/TXC_XBx4kCQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/j-eMDlsi9-A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/GsLeSPX8eUI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CookieIsMine",
+            "link": "https://youtu.be/k8AB81hq2UA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "cvrro",
+            "link": "https://youtu.be/tgtbAuHUttc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/gx5vf_DPHn0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/pHNGnzlmvIE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
