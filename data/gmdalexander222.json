@@ -1,0 +1,30 @@
+{
+    "id": 19053,
+    "name": "GMDALEXANDER222",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/ISGLMkeW6Ro",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/BHQHcgX7v14",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/X9Ugip8UU1A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtube.com/watch?v=OuXdpj6icKQ",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
