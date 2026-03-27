@@ -1,0 +1,66 @@
+{
+    "id": 164,
+    "name": "Future Circles",
+    "author": "ImTheEGuy",
+    "creators": ["ImTheEGuy", "Pog"],
+    "verifier": "Pog",
+    "verification": "https://youtu.be/f-xQFTdwJZk",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/h-C1055swOU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://www.youtube.com/watch?v=r8Wk6Xe-l68",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KrisKing",
+            "link": "https://www.youtube.com/watch?v=iAxSiouGT2s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/Bi30nfS-dJk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fruitsalad",
+            "link": "https://youtu.be/7ueer77CfAM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/jOvLT4a834k",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "wshedd",
+            "link": "https://youtu.be/sWsElKZyrF4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/moWjGcvbmPg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "minelo",
+            "link": "https://youtu.be/wPw3u4wZWrs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+} 
