@@ -1,0 +1,36 @@
+{
+    "id": 3311,
+    "name": "SPIT",
+    "author": "Deadblue",
+    "creators": ["Deadblue"],
+    "verifier": "Deadblue",
+    "verification": "https://youtu.be/Pb9qIy8Pr5s",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "zekek",
+            "link": "https://youtu.be/hpgDY9nk10k",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/-WHH8Xlm06o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/xHx6mGpCz0o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DissmoBob",
+            "link": "https://youtu.be/6KSrBOf4_vI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+} 
