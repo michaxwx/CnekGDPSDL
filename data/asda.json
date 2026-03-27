@@ -1,0 +1,60 @@
+{
+    "id": 4895,
+    "name": "ASDA",
+    "author": "drige",
+    "creators": ["drige", "r3dg45h"],
+    "verifier": "drige",
+    "verification": "https://youtu.be/fevkEo7CF7Q",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/0Jm8QsNCk5I",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://youtu.be/C4nX_5oQSew",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zpic3",
+            "link": "https://youtu.be/EiBQlEMT8D0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/Ho0v5Mbp4TM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/PEmjxH_gtgM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/lBy9dhcIT8k",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/EoJ0ZgKzl1c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/ScE7oou_OTo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
