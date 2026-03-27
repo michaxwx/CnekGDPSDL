@@ -1,0 +1,42 @@
+{
+    "id": 20415,
+    "name": "Bruh Voretechks",
+    "author": "ItsUtopia",
+    "creators": ["ItsUtopia", "Blexood"],
+    "verifier": "ItsUtopia",
+    "verification": "https://www.youtube.com/watch?v=RYb3xt4OJgY",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Blexood",
+            "link": "https://youtu.be/LxmRFa92A2E?si=0A6yRt8aGsxwUUfR",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "tenler",
+            "link": "https://youtu.be/IvIdo9eMkR0?si=UH-eJ04AHHNhjO5j",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=KN7J8ZD22fw",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "LeifY",
+            "link": "https://youtu.be/ip71NQxULvk?si=xNa7QNZoghPzknj_",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/SJPIJgb28RY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
