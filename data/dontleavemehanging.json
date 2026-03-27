@@ -1,0 +1,29 @@
+{
+    "id": 4915,
+    "name": "dontleavemehanging",
+    "author": "Gabby5820",
+    "creators": ["Gabby5820", "Mone"],
+    "verifier": "Mone",
+    "verification": "https://youtu.be/UpPVSCbIMVo",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/JeU8_Dm1qHk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://youtu.be/y2LSDBgvZac",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/BK-FsiQPRgI",
+            "percent": 100,
+            "hz": 240
+        }
+}
