@@ -1,0 +1,48 @@
+{
+    "id": 5729,
+    "name": "colorghasm v2",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/Ki0vCzaYl8o",
+    "percentToQualify": "100",
+    "password": "No Copy", 
+    "records": [
+        {
+            "user": "5shine",
+            "link": "https://youtu.be/8EnI7jgq-l0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "jayneanderson",
+            "link": "https://youtu.be/ohDXEl4kRu0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wh1rret",
+            "link": "https://youtu.be/KySQeAROCN0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/zDz1kuVuyKk",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "fruitsalad",
+            "link": "https://youtu.be/QsW8hwuiN8c",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/qTjo_hlmy1M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
