@@ -9,7 +9,7 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Nix",  <- not on the temp list for some reason?
+            "user": "Nix",
             "link": "https://youtu.be/tgP9_l9oetY",
             "percent": 100,
             "hz": 240
