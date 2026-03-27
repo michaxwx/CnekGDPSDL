@@ -1,0 +1,24 @@
+{
+    "id": 4887,
+    "name": "The Flawless",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"],
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/Hj0Lq-RDFIo",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/5cbMZVPgXyg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/PBYrmrLwjAc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
