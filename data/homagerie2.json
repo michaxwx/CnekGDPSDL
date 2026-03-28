@@ -1,0 +1,35 @@
+{
+    "id": 6059,
+    "name": "Homagerie2",
+    "author": "michaxwx",
+    "creators": ["michaxwx, Deadblue"],
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/s84vz9nqO8k",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/Dyi0ECtdUuE?si=5J2_obWvetiPhGYW",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoltreN",
+            "link": "https://youtu.be/5Kk2IVKfIoc?si=nv9MD23L9SjgPQhu",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/vUb6Bo5iX7g?si=O5L_I3meQeJvWxJi",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/-HimDvo5BVk?si=K_am6Vh3hNDEhBau",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
