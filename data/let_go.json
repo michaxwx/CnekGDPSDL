@@ -1,0 +1,30 @@
+{
+    "id":  5835,
+    "name": "Let go",
+    "author": "dinosaur",
+    "creators": ["dinosaur"], 
+    "verifier": "CookieIsMine",
+    "verification": "https://youtu.be/zOLo_HQSevQ",
+    "percentToQualify": "57",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/M7D0yzlfL_8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/DwPK7gRO6AI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/Iq_2fe3Np7c",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
