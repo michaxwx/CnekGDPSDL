@@ -1,18 +1,29 @@
 {
-    "id": 20666,
-    "name": "Estrubain",
-    "author": "Exenity",
-    "creators": ["Exenity"], <- exenity in the level desc credits it to "my friend" but i have no idea who thats supposed to be 
-    "verifier": "Exenity",
-    "verification": "https://www.youtube.com/watch?v=SYcIrzbimAY",
+    "id": 2194,
+    "name": "KFC",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k"],
+    "verifier": "Koozoo2k",
+    "verification": "https://www.youtube.com/watch?v=Nu2HGmgCmSA",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "Free to Copy",
     "records": [
-    	{
-            "user": "jayneanderson", 
-            "link": "https://www.youtube.com/watch?v=fpTNucz9rvU",
+        {
+            "user": "jayneanderson",
+            "link": "https://www.youtube.com/watch?v=4Tid40MMz3w",
             "percent": 100,
-            "hz": 0
-        }
-	]
+            "hz": 240
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=vZT41zJuwq8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exenity",
+            "link": "https://www.youtube.com/watch?v=2fSiZSWTFaI",
+            "percent": 100,
+            "hz": 240
+    ]
 }
