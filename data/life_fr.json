@@ -1,0 +1,24 @@
+{
+    "id": 18793,
+    "name": "life fr",
+    "author": "Deadblue",
+    "creators": ["Deadblue"], 
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/1JKk8J7Xn3U",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/2w13KSNkfLk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "http://youtube.com/watch?v=m4SfSzQdjiU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

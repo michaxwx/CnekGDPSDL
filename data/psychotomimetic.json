@@ -1,0 +1,36 @@
+{
+    "id": 4618,
+    "name": "Psychotomimetic",
+    "author": "TFIBB",
+    "creators": ["TFIBB"], 
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/xRPg4xr8A-c",
+    "percentToQualify": "45",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=KSuGXJypm8k",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/upBoi1kKMVQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/Er0qCwbTALg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/3WozOh-7CpA",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

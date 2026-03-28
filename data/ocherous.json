@@ -1,0 +1,24 @@
+{
+    "id": 5688,
+    "name": "Ocherous",
+    "author": "Gabby5820",
+    "creators": ["Gabby5820"], 
+    "verifier": "Rulmy",
+    "verification": "https://youtu.be/UHmgx0TExN0",
+    "percentToQualify": "50",
+    "password": "111111",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/kwi6Yp7cLMA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/Lq1vwOgPUEQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

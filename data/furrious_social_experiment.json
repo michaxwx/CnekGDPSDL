@@ -1,0 +1,18 @@
+{
+    "id":  4631,
+    "name": "furrious social experiment",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/R4R5SDYvaGo",
+    "percentToQualify": "51",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "drige", 
+            "link": "https://youtu.be/BmbdCoiMfNA",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2857,
+    "name": "pushenka botted cognition",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://www.youtube.com/watch?v=ej_cHstHoDE",
+    "percentToQualify": "42",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://youtu.be/siZ7c1aunsg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

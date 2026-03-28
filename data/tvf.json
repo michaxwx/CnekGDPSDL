@@ -1,0 +1,24 @@
+{
+    "id": 2163,
+    "name": "TVF",
+    "author": "RealFurrious",
+    "creators": ["RealFurrious"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/pIZHSQ4uaN8",
+    "percentToQualify": "39",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TFIBB",
+            "link": "https://www.youtube.com/watch?v=g4XTaiuVtb4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/OHySqw0T_zI",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}

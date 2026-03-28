@@ -1,0 +1,36 @@
+{
+    "id":  6548,
+    "name": "God of Fear",
+    "author": "InkZieTB",
+    "creators": ["CnekYT", "Mauve", "rem", "Sky", "Twisty", "WaveyBoo"], 
+    "verifier": "InkZieTB",
+    "verification": "https://youtu.be/2-wOHZn6ZGg",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zMrMummy",
+            "link": "https://youtu.be/AxLWCKQX9t8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/PiZTV0wZWpc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/61isj8dv7z8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "beary",
+            "link": "https://www.youtube.com/watch?v=vj-7elcDh8I",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

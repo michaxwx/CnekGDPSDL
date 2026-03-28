@@ -1,0 +1,18 @@
+{
+    "id": 19751,
+    "name": "Controlled Power",
+    "author": "IIIDesLoIII",
+    "creators": ["IIIDesLoIII"], 
+    "verifier": "Rulmy",
+    "verification": "https://youtu.be/2QTXV_0te7I",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/SJPIJgb28RY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

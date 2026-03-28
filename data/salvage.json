@@ -1,0 +1,42 @@
+{
+    "id": 3242,
+    "name": "Salvage",
+    "author": "Exenity",
+    "creators": ["Exenity", "Skell"], 
+    "verifier": "TFIBB",
+    "verification": "https://youtu.be/IkLIIqm88LQ",
+    "percentToQualify": "48",
+    "password": "696969",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://youtu.be/GrIuQuwmz_o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tc7742",
+            "link": "https://youtu.be/qZ-ACeHR4SE",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Pushenka",
+            "link": "https://youtu.be/BXLRwA_zKj0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/r03p5asJmj4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mone",
+            "link": "https://youtu.be/q-Nbi_L0wqY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

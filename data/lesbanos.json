@@ -1,0 +1,18 @@
+{
+    "id": 20294,
+    "name": "Lesbanos",
+    "author": "ItsUtopia",
+    "creators": ["ItsUtopia"], 
+    "verifier": "Rulmy",
+    "verification": "https://youtu.be/VCZ9-g0BOvQ?si=FtJ3kd466wgrHHBi",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "jayneanderson", 
+            "link": "https://www.youtube.com/watch?v=3Ulf5Fiqxt8",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
