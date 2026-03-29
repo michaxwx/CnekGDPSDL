@@ -28,5 +28,10 @@
         "role": "helper",
         "name": "Mone",
         "link": "https://www.youtube.com/@moneverix"
+    },
+    {
+        "role": "dev",
+        "name": "FromTheAir",
+        "link": "https://www.youtube.com/@uniunderwater"
     }
 ]
