@@ -1,0 +1,24 @@
+{
+    "id": 19592,
+    "name": "hyper tenderness wave",
+    "author": "jayneanderson",
+    "creators": ["TFIBB, jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://youtu.be/sF1lk9RLUu0",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/QrY9js3SmvI?t=162",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TFIBB",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013640670554116258/Base_Profile_2022.08.28_-_22.19.58.05.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
