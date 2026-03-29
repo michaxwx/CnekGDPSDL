@@ -8,7 +8,7 @@ export const store = Vue.reactive({
     },
     listMode: localStorage.getItem('listMode') || 'main',
     toggleListMode() {
-        this.listMode = this.listMode === 'main' ? 'rgb' : 'main';
+        this.listMode = this.listMode === 'main' ? 'chal' : 'main';
         localStorage.setItem('listMode', this.listMode);
     },
 });
