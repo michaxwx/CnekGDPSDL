@@ -1,0 +1,42 @@
+{
+    "id": 18608,
+    "name": "Kenya Swagroute Nerfed",
+    "author": "CnekYT",
+    "creators": ["Deadblue"],
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/EhjauWNVYAo",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "njacked",
+            "link": "https://cdn.discordapp.com/attachments/963758693030195260/1012750802307268688/YouCut_20220826_104811142.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Mone",
+            "link": "https://cdn.discordapp.com/attachments/955972141055098881/1012853887939657870/2022-08-26_22-14-25.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Flakjacket3000",
+            "link": "https://youtu.be/IxXNOQg3YFk",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CycloneGDP",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1082041338213716038/kswnerf.mp4",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
