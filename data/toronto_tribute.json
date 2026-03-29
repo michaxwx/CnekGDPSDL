@@ -8,5 +8,11 @@
     "percentToQualify": 7,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Sky",
+            "link": "https://www.youtube.com/watch?v=KpCIXxtqjSk",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
