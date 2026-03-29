@@ -1,0 +1,24 @@
+{
+    "id":  18626,
+    "name": "pistachio angaria",
+    "author": "michaxwx",
+    "creators": ["michaxwx"], 
+    "verifier": "michaxwx",
+    "verification": "https://hemeraollephilly.com/#/",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Baba", 
+            "link": "https://hemeraollephilly.com/#/",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://hemeraollephilly.com/#/",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

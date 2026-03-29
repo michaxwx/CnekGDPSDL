@@ -1,0 +1,54 @@
+{
+    "id":  4624,
+    "name": "cult calling",
+    "author": "drige",
+    "creators": ["drige"], 
+    "verifier": "drige",
+    "verification": "https://www.youtube.com/watch?v=Pd-UuhZNass",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://media.discordapp.net/attachments/878857309953064962/879794693670572052/cult_calling_by_astral_remania.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Sky", 
+            "link": "https://youtu.be/rsTFUfJHCzY",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Ladaschi",
+            "link": "https://youtu.be/vomvjDbQPWA",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/whhV1EebHDY",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Tabbi",
+            "link": "https://youtu.be/w_JerCPUupk",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "hei", 
+            "link": "https://youtu.be/lkLBHvhk5TE",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id":  2816,
+    "name": "Pop",
+    "author": "Deadblue",
+    "creators": ["Deadblue"], 
+    "verifier": "Deadblue",
+    "verification": "https://cdn.discordapp.com/attachments/1012603176245022744/1012880409970880533/pop_verified.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/dKMd3xqbZFc",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/BpvUYubWKww",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/CXcaV7wcAeM",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

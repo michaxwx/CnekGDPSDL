@@ -1,0 +1,66 @@
+{
+    "id":  198,
+    "name": "chalchal",
+    "author": "Cosnix",
+    "creators": ["Cosnix"], 
+    "verifier": "Cosnix",
+    "verification": "https://cdn.discordapp.com/attachments/1012603176245022744/1013107883430383696/chalchal.mp4",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Koozoo2k", 
+            "link": "https://www.youtube.com/watch?v=OHKnPRlZFrE",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "aitoshi",
+            "link": "https://youtu.be/pvTU7yNYoto",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Bangaled",
+            "link": "https://cdn.discordapp.com/attachments/934549846277390467/938919507899076618/Base_Profile_2022.02.03_-_17.00.18.03.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/aLSZtslTFH8",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013115496062800072/My_Video-1.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/Q2e5keIeu-Y",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Ladaschi",
+            "link": "https://youtu.be/ZHQb90ZR3u8",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "drige", 
+            "link": "https://youtu.be/jXVIqYXOuvU",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://www.youtube.com/watch?v=arMNA1Rc_dw",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

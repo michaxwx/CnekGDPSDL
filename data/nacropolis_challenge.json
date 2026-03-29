@@ -1,0 +1,54 @@
+{
+    "id":  1301,
+    "name": "Nacropolis Challenge",
+    "author": "promaster11",
+    "creators": ["promaster11"], 
+    "verifier": "promaster11",
+    "verification": "https://www.youtube.com/watch?v=Z9-WVaPIOnQ",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/2mgoZq_s6ag",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://youtu.be/DwPK7gRO6AI",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "aitoshi",
+            "link": "https://youtu.be/eozKhLqSfyc",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/WFL82i79oV4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "saikuuron",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1081800072737595442/nacro.mp4",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
