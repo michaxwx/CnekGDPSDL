@@ -1,0 +1,43 @@
+{
+    "id": 3917,
+    "name": "a z7re sno",
+    "author": "TheDestroyer465",
+    "creators": ["TheDestroyer465"],
+    "verifier": "Koozoo2k",
+    "verification": "https://www.youtube.com/watch?v=BqznwzP1qQ4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F825109835556192277%2F929917390546944031%2F2022-01-09_18-57-31.mp4&sa=D&sntz=1&usg=AOvVaw3h2bRPh4DzcvRWaPe-Av7f",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/z_zyfV-wZNM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1012603176245022744%2F1013108619014844527%2Fdick.mp4&sa=D&sntz=1&usg=AOvVaw3wdJW9kSO6TeIA8IH02NLe",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Baba",
+            "link": "https://youtube.com/shorts/J7t4t0VIBqw?feature=share",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+  
