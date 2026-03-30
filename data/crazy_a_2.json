@@ -1,0 +1,18 @@
+{
+    "id": 21076,
+    "name": "CRAZY a 2",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://www.youtube.com/watch?v=-ZCJe74Zl6w",
+    "percentToQualify": "100",
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/iHvtoa_h_YM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
