@@ -1,0 +1,30 @@
+{
+    "id":  18616,
+    "name": "CrOnCr 21p Spam",
+    "author": "-",
+    "creators": ["CnekYT"], 
+    "verifier": "CnekYT",
+    "verification": "https://www.youtube.com/watch?v=JeVa-NcyVv8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Mone",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013089421496680538/2022-08-27_16-13-22.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Deadblue", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013089770190143600/shit.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "jayneanderson", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013194362143899829/YouCut_20220827_161129283.mp4",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

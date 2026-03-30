@@ -1,0 +1,48 @@
+{
+    "id":  18623,
+    "name": "Study Hall",
+    "author": "Sky",
+    "creators": ["Sky"], 
+    "verifier": "Sky",
+    "verification": "https://youtu.be/ZdXrY65nqKs",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Mone",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013545863009812510/2022-08-28_22-23-57.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/cdmSR4pofh8",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/PLSPyDuSHYQ",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/P7eYNfjm-VU",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "saikuuron", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1081802643984359514/studyhall.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=NLdhgWFTLxY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

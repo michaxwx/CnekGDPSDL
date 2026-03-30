@@ -1,0 +1,18 @@
+{
+    "id":  4805,
+    "name": "Kortex Delpris",
+    "author": "Koozoo2k",
+    "creators": ["Koozoo2k"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/QrY9js3SmvI",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Sky",
+            "link": "https://www.youtube.com/watch?v=b6_cidMzNFc",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id":  4687,
+    "name": "Easier then SM",
+    "author": "Exenity",
+    "creators": ["Exenity"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/QrY9js3SmvI",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "drige",
+            "link": "https://youtu.be/YxEKxsy2QxY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
