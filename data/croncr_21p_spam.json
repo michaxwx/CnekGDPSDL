@@ -25,6 +25,12 @@
             "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013194362143899829/YouCut_20220827_161129283.mp4",
             "percent": 100,
             "hz": 0
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtube.com/watch?v=I4kThpPyO7c",
+            "percent": 100,
+            "hz": 576
         }
     ]
 }
