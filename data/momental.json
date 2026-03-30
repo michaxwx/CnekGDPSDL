@@ -1,0 +1,18 @@
+{
+    "id":  18616,
+    "name": "Momental",
+    "author": "bccfs",
+    "creators": ["bccfs"], 
+    "verifier": "bccfs",
+    "verification": "https://youtu.be/MopgwrOj3-k",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "michaxwx", 
+            "link": "https://youtu.be/yU1yqKh_MCo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
