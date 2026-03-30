@@ -1,0 +1,48 @@
+{
+    "id": 2390 ,
+    "name": "cat licker",
+    "author": "Baba",
+    "creators": ["Baba"],
+    "verifier": "Baba",
+    "verification": "https://www.youtube.com/watch?v=LaNTtmOI4_w&feature=youtu.be",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F825109835556192277%2F929913677967155210%2F2022-01-09_18-43-44.mp4&sa=D&sntz=1&usg=AOvVaw3pyGIEZL3-r0FA64yb7yZm",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/x0CJc40lF7c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1012603176245022744%2F1013090270260236328%2F2022-08-27_16-18-34.mp4&sa=D&sntz=1&usg=AOvVaw1jjEiLlp282o8mIkyxTTNl",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flakjacket",
+            "link": "https://youtu.be/0fTMMhehn2I",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
