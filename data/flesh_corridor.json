@@ -1,0 +1,60 @@
+{
+    "id": 1794  ,
+    "name": "Flesh Corridor",
+    "author": "Ladaschi",
+    "creators": ["Ladaschi"],
+    "verifier": "Ladaschi",
+    "verification": "https://www.youtube.com/watch?v=BWg9a-9r1yU,
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "promaster11",
+            "link": "https://youtu.be/x8xe4qmMZ8A",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/Z81l1CKG8w8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/XYAFxekqt9U",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "aitoshi",
+            "link": "https://youtu.be/BJBTV9vV90A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1012603176245022744%2F1014171742282993764%2Fflesh.mp4&sa=D&sntz=1&usg=AOvVaw0Dn6VNjuo8LNmWKSkqohh7",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheDestroyer465",
+            "link": "https://youtu.be/hZ53k0NHQro",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/S-CIsPzztJ0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
