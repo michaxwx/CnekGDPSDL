@@ -1,0 +1,54 @@
+{
+    "id":  1695,
+    "name": "B",
+    "author": "Deadblue",
+    "creators": ["Deadblue"], 
+    "verifier": "Deadblue",
+    "verification": "https://cdn.discordapp.com/attachments/1012603176245022744/1012879360535040031/b.mp4",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Ladaschi",
+            "link": "https://youtu.be/ZHQb90ZR3u8",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/dKMd3xqbZFc",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT", 
+            "link": "https://youtu.be/igi4XRCStdE",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "drige",
+            "link": "https://youtu.be/M7HjgWVhuzQ",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Sky",
+            "link": "https://www.youtu.be/O8aaIvFBvTE",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "hei",
+            "link": "https://youtu.be/cA1MbGpTAyM",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Rulmy", 
+            "link": "https://www.youtube.com/watch?v=NLdhgWFTLxY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

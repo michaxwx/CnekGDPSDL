@@ -1,0 +1,36 @@
+{
+    "id":  18650,
+    "name": "Fleischgesundheit is DEAD",
+    "author": "-",
+    "creators": ["Unjacked"], 
+    "verifier": "CnekYT",
+    "verification": "https://www.youtube.com/watch?v=ks1umluC_dk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/2gT3oxTMvMQ",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/cdmSR4pofh8",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "michaxwx", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1016447403160780810/flei1.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=NLdhgWFTLxY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id":  3852,
+    "name": "maries tampon",
+    "author": "jayneanderson",
+    "creators": ["jayneanderson"], 
+    "verifier": "jayneanderson",
+    "verification": "https://cdn.discordapp.com/attachments/1012603176509255742/1013189380577427607/YouCut_20220827_155213464.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Deadblue", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013113381319872637/period.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/BQ3qrTRUbJk",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "aitoshi", 
+            "link": "https://youtu.be/DDS9KmUpI88",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "saikuuron",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1082359644485333155/mariestm.mp4",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Rulmy",
+            "link": "https://www.youtube.com/watch?v=NLdhgWFTLxY",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
