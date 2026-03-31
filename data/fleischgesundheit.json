@@ -1,0 +1,54 @@
+{
+    "id": 3841,
+    "name": "Fleischgesundheit",
+    "author": "Unjacked",
+    "creators": ["Unjacked"], 
+    "verifier": "Baba",
+    "verification": "https://youtu.be/pn_L67QQ60g",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "CnekYT", 
+            "link": "https://cdn.discordapp.com/attachments/825109835556192277/929915027174096947/2022-01-09_18-49-09.mp4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/9Nm3-xezeX4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Deadblue", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013090788265164851/2022-08-27_16-20-22.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mone", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013497597207527545/2022-08-28_19-16-48.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheDestroyer465", 
+            "link": "https://youtu.be/Q88q9qnvaCU",
+            "percent": 100,
+            "hz": 60
+        }
+	]
+}

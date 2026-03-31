@@ -1,0 +1,36 @@
+{
+    "id": 2331,
+    "name": "alberta chamber",
+    "author": "Deadblue",
+    "creators": ["Deadblue"], 
+    "verifier": "Deadblue",
+    "verification": "https://cdn.discordapp.com/attachments/1012603176245022744/1012878004055179294/ok.mp4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/T1CueKbFTeM",
+            "percent": 100,
+            "hz": 144
+        },
+    	{
+            "user": "michaxwx", 
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/QoKz2WLYVsg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 18612,
+    "name": "gaybot challenge II",
+    "author": "Sky",
+    "creators": ["Sky"], 
+    "verifier": "Sky",
+    "verification": "https://youtu.be/EZqpFLyAtK4",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Ladaschi",
+            "link": "https://youtu.be/ZHQb90ZR3u8",
+            "percent": 100,
+            "hz": 360
+        },
+    	{
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/dKMd3xqbZFc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/97BjB8YnMNc",
+            "percent": 100,
+            "hz": 144
+        }
+	]
+}

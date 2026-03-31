@@ -1,0 +1,24 @@
+{
+    "id": 18609,
+    "name": "We Can",
+    "author": "ThisIsAname",
+    "creators": ["ThisIsAname"], 
+    "verifier": "Koozoo2k",
+    "verification": "https://youtu.be/cdmSR4pofh8",
+    "percentToQualify": "100",
+    "password": "18608",
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/L4NvTgg5gP0",
+            "percent": 100,
+            "hz": 144
+        },
+    	{
+            "user": "Tabbi", 
+            "link": "https://youtu.be/s9rAkcUuZyQ",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

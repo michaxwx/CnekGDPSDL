@@ -1,0 +1,30 @@
+{
+    "id": 4680,
+    "name": "challenge",
+    "author": "drige",
+    "creators": ["drige"], 
+    "verifier": "drige",
+    "verification": "https://youtu.be/M2CXvF1BTbI",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/Nh13AFDbwwU",
+            "percent": 100,
+            "hz": 144
+        },
+    	{
+            "user": "Ladaschi", 
+            "link": "https://youtu.be/ZHQb90ZR3u8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1015401940055765104/Cnek_Gdps_2022.08.31_-_00.20.55.124.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

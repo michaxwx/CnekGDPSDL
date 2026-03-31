@@ -1,0 +1,54 @@
+{
+    "id": 1786,
+    "name": "Metal Corridor",
+    "author": "Ladaschi",
+    "creators": ["Ladaschi"], 
+    "verifier": "Ladaschi",
+    "verification": "https://youtu.be/UhPEXfS1uVA",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "promaster11",
+            "link": "https://youtu.be/sq599FBdRs8",
+            "percent": 100,
+            "hz": 60
+        },
+    	{
+            "user": "CnekYT", 
+            "link": "https://youtu.be/TYNOn1jhLgg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "aitoshi",
+            "link": "https://youtu.be/BbBgXyF9S2w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sky", 
+            "link": "https://youtu.be/zyyFppXT4a8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Deadblue",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1014171807965773934/metal.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/dKMd3xqbZFc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheDestroyer465", 
+            "link": "https://youtu.be/44z2pMI0hn8",
+            "percent": 100,
+            "hz": 60
+        }
+	]
+}

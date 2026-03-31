@@ -1,0 +1,42 @@
+{
+    "id": 194,
+    "name": "Tiny challenge",
+    "author": "ToybenjaguaXd",
+    "creators": ["ToybenjaguaXd"], 
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/ad-pWEXnVzQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/HEpC6KpRBug",
+            "percent": 100,
+            "hz": 240
+        },
+    	{
+            "user": "Deadblue", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013123800210083840/not_venezuela.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Avurity",
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheDestroyer465",
+            "link": "https://youtu.be/3mbq-HHNqUI",
+            "percent": 100,
+            "hz": 60
+        }
+	]
+}

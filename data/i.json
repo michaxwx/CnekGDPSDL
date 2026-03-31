@@ -1,0 +1,24 @@
+{
+    "id": 2628,
+    "name": "i",
+    "author": "Baba",
+    "creators": ["Baba"], 
+    "verifier": "Baba",
+    "verification": "https://youtu.be/EgvLm8ttNqo",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/Y_KE62xHCpo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sky", 
+            "link": "https://youtu.be/ZTpkHgTnkWc",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

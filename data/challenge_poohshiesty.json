@@ -1,0 +1,30 @@
+{
+    "id": 839,
+    "name": "challenge",
+    "author": "PoohShiesty",
+    "creators": ["PoohShiesty"], 
+    "verifier": "promaster11",
+    "verification": "https://youtu.be/sq599FBdRs8",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Ladaschi",
+            "link": "https://youtu.be/ZHQb90ZR3u8",
+            "percent": 100,
+            "hz": 360
+        },
+    	{
+            "user": "CnekYT", 
+            "link": "https://youtu.be/GgDdKznghrc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/dKMd3xqbZFc",
+            "percent": 100,
+            "hz": 360
+        }
+	]
+}

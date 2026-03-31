@@ -1,0 +1,30 @@
+{
+    "id": 18649,
+    "name": "3 licked cats",
+    "author": "-",
+    "creators": ["Baba", "CnekYT"], 
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/jKaxodj1Pws",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Baba",
+            "link": "https://youtu.be/EQiZAyq5P5s",
+            "percent": 100,
+            "hz": 360
+        },
+    	{
+            "user": "Koozoo2k", 
+            "link": "https://youtu.be/dKMd3xqbZFc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/pkl53Uly64M",
+            "percent": 100,
+            "hz": 240
+        }
+	]
+}

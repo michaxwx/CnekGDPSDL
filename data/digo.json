@@ -1,0 +1,48 @@
+{
+    "id": 3984,
+    "name": "digo",
+    "author": "Sky",
+    "creators": ["Sky"], 
+    "verifier": "Sky",
+    "verification": "https://youtu.be/1M88byamrgQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CnekYT",
+            "link": "https://youtu.be/3iOw0xy4PNI",
+            "percent": 100,
+            "hz": 144
+        },
+    	{
+            "user": "Deadblue", 
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1013109917705584679/the_l.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://youtu.be/6p___JmJQUs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flakjacket", 
+            "link": "https://youtu.be/kdVbzHlg4nE",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Koozoo2k",
+            "link": "https://youtu.be/QrY9js3SmvI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheDestroyer465", 
+            "link": "https://youtu.be/tP-B1nis83c",
+            "percent": 100,
+            "hz": 60
+        }
+	]
+}
