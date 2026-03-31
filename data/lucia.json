@@ -13,6 +13,18 @@
             "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1081801642661400786/lucia.mp4",
             "percent": 100,
             "hz": 0
+        },
+        {
+            "user": "TheDestroyer465",
+            "link": "https://www.youtube.com/watch?v=Iqh0igsvGN4",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "michaxwx",
+            "link": "https://www.youtube.com/watch?v=L9gfoQqLs7M",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
