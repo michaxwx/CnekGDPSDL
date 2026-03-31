@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=-ZCJe74Zl6w",
             "percent": 100,
             "hz": 576
+        },
+        {
+            "user": "FromTheAir",
+            "link": "https://youtu.be/V-XZO64k7B0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
