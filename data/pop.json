@@ -25,6 +25,18 @@
             "link": "https://youtu.be/CXcaV7wcAeM",
             "percent": 100,
             "hz": 0
+        },
+        {
+            "user": "TheDestroyer465",
+            "link": "https://www.youtube.com/watch?v=Iqh0igsvGN4",
+            "percent": 100,
+            "hz": 480
+        },
+    	{
+            "user": "michaxwx", 
+            "link": "https://www.youtube.com/watch?v=hE_1pHJAHxE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
