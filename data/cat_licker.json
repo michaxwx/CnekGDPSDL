@@ -1,7 +1,7 @@
 {
     "id": 2390 ,
     "name": "cat licker",
-    "author": "Baba",
+    "author": "LUL",
     "creators": ["Baba"],
     "verifier": "Baba",
     "verification": "https://www.youtube.com/watch?v=LaNTtmOI4_w&feature=youtu.be",
@@ -43,6 +43,12 @@
             "link": "https://youtu.be/0fTMMhehn2I",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "FromTheAir",
+            "link": "https://youtu.be/_MuCTyZvN-0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
