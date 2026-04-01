@@ -1,0 +1,18 @@
+{
+    "id": 21084,
+    "name": "schnucks",
+    "author": "Sky",
+    "creators": ["Sky"], 
+    "verifier": "Sky",
+    "verification": "https://www.youtube.com/watch?v=HEusdroN4AE",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+       {
+            "user": "michaxwx",
+            "link": "https://youtu.be/U7K5piM7CPEk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
