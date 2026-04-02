@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=xVnfvLm8eeo",
     "percentToQualify": "49",
     "password": "No Copy",
-    "records": []
+    "records": [
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1489062137232887881/MedalTVGeometryDash20260401173933759-tr-edit.mp4?ex=69cf0cae&is=69cdbb2e&hm=e612296fc2d0d05b1e9bfce96d0e968e089009a911513b40eaeca1efd3d01d90&",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
