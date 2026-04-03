@@ -52,9 +52,15 @@
         },
         {
             "user": "OtherChris",
-            "link": "https://www.youtube.com/watch?v=j9SGlbtKQ-M",
+            "link": "https://www.youtube.com/watch?v=dV4ogmcBF7E",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "hei",
+            "link": "https://youtu.be/cA1MbGpTAyM",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
