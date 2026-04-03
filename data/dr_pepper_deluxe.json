@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/Z5wg7AZU0Jg",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": [ ]
+    "records": [
+        {
+            "user": "ItsUtopia",
+            "link": "https://youtu.be/ewCAJUE4hYo",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
