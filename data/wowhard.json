@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=RdTaz_q_bBg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ItsUtopia",
+            "link": "https://youtu.be/ZO5Ot2yMrAY",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
