@@ -1,0 +1,18 @@
+{
+    "id": 656,
+    "name": "Cnek Challenge (boater)",
+    "author": "boater",
+    "creators": ["boater"],
+    "verifier": "promaster11",
+    "verification": "https://youtu.be/sq599FBdRs8?si=NkqPyxyRN8XutLrv",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
+}
