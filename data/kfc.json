@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=2fSiZSWTFaI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Sky",
+            "link": "https://youtu.be/k5cpGQlD1nA",
+            "percent": 100,
+            "hz": 576
         }
     ]
 }
