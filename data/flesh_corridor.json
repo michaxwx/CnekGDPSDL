@@ -67,6 +67,12 @@
             "link": "https://youtu.be/SvQK_uj4wXI",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "hei", 
+            "link": "https://www.youtube.com/watch?v=6-lNyedbfxc",
+            "percent": 100,
+            "hz": 240
         }
 	]
 }
