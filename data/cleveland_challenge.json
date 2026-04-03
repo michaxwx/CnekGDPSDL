@@ -1,0 +1,24 @@
+{
+    "id": 21095,
+    "name": "Cleveland Challenge",
+    "author": "CnekYT",
+    "creators": ["CnekYT"],
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/u6ksbWG0zDk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": micha",
+            "link": "https://youtu.be/svjdXYbKatQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1489503252700729344/MedalTVGeometryDash20260402225312773-tr-edit.mp4?ex=69d0a781&is=69cf5601&hm=c2ad5a9ee79eb1d79eef507ef2317dbaea00d3d45fa6dd0d0d84c36f22d00a93&",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
