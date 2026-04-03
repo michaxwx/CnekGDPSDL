@@ -1,0 +1,18 @@
+{
+    "id": 14,
+    "name": "Slow Ball",
+    "author": "CnekYT",
+    "creators": ["CnekYT"],
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/J18GacsCLYs?si=oE95U6iZVfBPEb28",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1489764319410262016/MedalTVGeometryDash20260403160824932-trim-1775257874276.mp4?ex=69d19aa4&is=69d04924&hm=c36d25d7dafea07124bac49635fb22a3942e66a6b5d39e771eefafda66303a4e&",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
