@@ -1,0 +1,18 @@
+{
+    "id": 340,
+    "name": "BopTop",
+    "author": "KadenTheFam",
+    "creators": ["KadenTheFam"],
+    "verifier": "iiHeroSuperGDPS",
+    "verification": "https://youtu.be/YxR0hRNJK-Q?si=X-Ky2hKAtA4muxKQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
+}
