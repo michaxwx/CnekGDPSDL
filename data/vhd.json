@@ -1,0 +1,18 @@
+{
+    "id": 965,
+    "name": "VHD",
+    "author": "StinkyFart",
+    "creators": ["StinkyFart", "promaster11"],
+    "verifier": "Codye",
+    "verification": "https://youtu.be/wq0OtYPVFX4?si=7w82tF3I6uTjiaEq",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1489761614956859414/MedalTVGeometryDash20260403160011208-trim-1775257230146.mp4?ex=69d1981f&is=69d0469f&hm=a82e893bf611149a6a25d25dc47c85c7d50f3a9e124337c653647a5d81ae0729&",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
