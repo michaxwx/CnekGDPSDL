@@ -1,0 +1,18 @@
+{
+    "id": 19307,
+    "name": "GDPS Panama",
+    "author": "Sky",
+    "creators": ["Sky"],
+    "verifier": "Sky",
+    "verification": "https://youtu.be/gnNCOTQp6zc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/gnNCOTQp6zc",
+            "percent": 100,
+            "hz": 575
+        }
+    ]
+}
