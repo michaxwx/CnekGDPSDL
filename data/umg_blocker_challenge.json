@@ -1,0 +1,24 @@
+{
+    "id": 21011,
+    "name": "umg blocker challenge",
+    "author": "hei",
+    "creators": ["hei", "Creepery"],
+    "verifier": "hei",
+    "verification": "https://www.youtube.com/watch?v=5s24fdjZw1M ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1489764394316333197/MedalTVGeometryDash20260403161050200-trim-1775257893891.mp4?ex=69d19ab6&is=69d04936&hm=841582fa3370e4a86bff8bfed63584d781d8d6311b373a08365d0ea01c3cd69f&",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Baba",
+            "link": "https://youtu.be/FROtmkaL1TA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
