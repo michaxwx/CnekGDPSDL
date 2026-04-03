@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=-ZCJe74Zl6w",
             "percent": 100,
             "hz": 576
+        },
+        {
+            "user": "OtherChris",
+            "link": "https://www.youtube.com/watch?v=j9SGlbtKQ-M",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
