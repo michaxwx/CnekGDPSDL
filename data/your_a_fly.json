@@ -1,0 +1,18 @@
+{
+    "id": 21098,
+    "name": "Your a fly",
+    "author": "CnekYT",
+    "creators": ["CnekYT"],
+    "verifier": "CnekYT",
+    "verification": "https://youtu.be/D6dxtQuzMtg",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
+}
