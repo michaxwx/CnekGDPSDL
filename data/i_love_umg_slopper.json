@@ -1,0 +1,18 @@
+{
+    "id": 21104,
+    "name": "i love umg slopper",
+    "author": "hei",
+    "creators": ["hei"],
+    "verifier": "hei",
+    "verification": "https://youtu.be/E05ZIcef2VU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/E05ZIcef2VU",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
+}
