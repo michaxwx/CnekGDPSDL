@@ -1,0 +1,18 @@
+{
+    "id": 313,
+    "name": "ClubRed",
+    "author": "KadenTheFam",
+    "creators": ["KadenTheFam"],
+    "verifier": "iiHeroSuperGDPS",
+    "verification": "https://youtu.be/ybOJ2l5Pa_0?si=g3uBHAsB9kmsApu0",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/BqznwzP1qQ4",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
+}
