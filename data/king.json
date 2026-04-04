@@ -1,0 +1,18 @@
+{
+    "id": 21094,
+    "name": "KING",
+    "author": "ItsUtopia",
+    "creators": ["ItsUtopia"],
+    "verifier": "ItsUtopia",
+    "verification": "https://youtu.be/rMjUeFXnKJk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TheDestroyer465",
+            "link": "https://youtu.be/CdeBHQq33uI?si=_FGPhL2QSdPMYWc6",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
