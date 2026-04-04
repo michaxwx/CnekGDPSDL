@@ -1,0 +1,18 @@
+{
+    "id": 1267,
+    "name": "npesta verifies keno",
+    "author": "Skell",
+    "creators": ["Skell"],
+    "verifier": "Skell",
+    "verification": "https://youtu.be/zVMeTxGp6gU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sean Thomas",
+            "link": "https://youtu.be/Z5wg7AZU0Jg",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
+}
