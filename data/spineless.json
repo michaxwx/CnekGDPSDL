@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=KSPcgm-mYx8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Mone",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1490856911078166558/Replay_2026-04-07_01-30-41.mp4?ex=69d59432&is=69d442b2&hm=8b784a9b9a8e6ad07fbb14a811a9808dc03135923617b0d854368c5bf51fe361&",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
