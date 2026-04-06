@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/VjMyd8NPcTI?si=WFRcc4bI54YzNpsu",
     "percentToQualify": "100",
     "password": "No Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Mone",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1490450426477154525/Replay_2026-04-05_22-32-44.mp4?ex=69d56b20&is=69d419a0&hm=883400c5387f66c2f3a14b937abae603cf0900ce8e226a9b43b46c5c605d2513&",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
