@@ -5,6 +5,8 @@ import { round, score } from './score.js';
  */
 const dir = '/data';
 
+const maxRank = store.listMode === 'chal' ? 50 : 150; // mone was here Hello
+
 export async function fetchList(listType = 'main') {
     const listFile = listType === 'chal' ? '_challist.json' : '_list.json';
     const listResult = await fetch(`${dir}/${listFile}`);
@@ -71,7 +73,7 @@ export async function fetchLeaderboard(listType = 'main') {
         verified.push({
             rank: rank + 1,
             level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify),
+            score: score(rank + 1, 100, level.percentToQualify, maxRank),
             link: level.verification,
         });
 
@@ -90,7 +92,7 @@ export async function fetchLeaderboard(listType = 'main') {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
-                    score: score(rank + 1, 100, level.percentToQualify),
+                    score: score(rank + 1, 100, level.percentToQualify, maxRank),
                     link: record.link,
                 });
                 return;
@@ -100,7 +102,7 @@ export async function fetchLeaderboard(listType = 'main') {
                 rank: rank + 1,
                 level: level.name,
                 percent: record.percent,
-                score: score(rank + 1, record.percent, level.percentToQualify),
+                score: score(rank + 1, record.percent, level.percentToQualify, maxRank),
                 link: record.link,
             });
         });
