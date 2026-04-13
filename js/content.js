@@ -1,4 +1,5 @@
 import { round, score } from './score.js';
+import { store } from '../store';
 
 /**
  * Path to directory containing list JSONs and all levels
