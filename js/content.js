@@ -50,6 +50,7 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard(listType = 'main') {
     const list = await fetchList(listType);
+    const maxRank = listType === 'chal' ? 50 : 150;
 
     const scoreMap = {};
     const errs = [];
