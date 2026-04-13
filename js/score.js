@@ -10,8 +10,8 @@ const scale = 3;
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
-export function score(rank, percent, minPercent) {
-    if (rank > 50) {
+export function score(rank, percent, minPercent, maxRank = 150) {
+    if (rank > maxRank) {
         return 0;
     }
     if (rank > 75 && percent < 100) {
