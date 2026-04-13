@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/BqznwzP1qQ4",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Mone", 
+            "link": "https://youtu.be/SaURsACvqqk",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
