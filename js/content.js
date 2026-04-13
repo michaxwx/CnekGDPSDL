@@ -5,11 +5,10 @@ import { round, score } from './score.js';
  */
 const dir = '/data';
 
-const maxRank = store.listMode === 'chal' ? 50 : 150; // mone was here Hello
-
 export async function fetchList(listType = 'main') {
     const listFile = listType === 'chal' ? '_challist.json' : '_list.json';
     const listResult = await fetch(`${dir}/${listFile}`);
+    const maxRank = listType === 'chal' ? 50 : 150;
     try {
         const list = await listResult.json();
         return await Promise.all(
