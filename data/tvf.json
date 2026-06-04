@@ -19,6 +19,12 @@
             "link": "https://youtu.be/OHySqw0T_zI",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "exenity", 
+            "link": "https://youtu.be/bmPCCQ3dSHk",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
