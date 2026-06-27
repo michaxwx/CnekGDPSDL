@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=xvO-1OcuC2g",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ItsUtopia",
+            "link": "https://cdn.discordapp.com/attachments/1012603176245022744/1520296903089324062/MedalTVGeometryDash20260626221535395-trim-1782537400667.mp4?ex=6a40ae53&is=6a3f5cd3&hm=7251cdf47952f635e13b19c3e15996b3db831dcc0d58b8e46e3a7d6764c5a0a2&",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
