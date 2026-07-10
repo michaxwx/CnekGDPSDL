@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "No Copy", 
     "records": [
+        {
+            "user": "TheDestroyer465",
+            "link": "https://youtu.be/3J4z9a_ZFjU?si=Ex91B8uOdGC0f0uo",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
