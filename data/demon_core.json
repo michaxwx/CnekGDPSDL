@@ -7,5 +7,12 @@
     "verification": "https://cdn.discordapp.com/attachments/920439679789178890/1082009059999371314/demon_core.mp4",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": [ ]
+    "records": [
+        {
+            "user": "TheDestroyer465",
+            "link": "https://www.youtube.com/watch?v=1ajybDRzjIw",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
 }
