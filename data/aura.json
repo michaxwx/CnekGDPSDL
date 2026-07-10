@@ -9,10 +9,16 @@
     "password": "Free to Copy",
     "records": [
         {
+            "user": "TheDestroyer465",
+            "link": "https://youtu.be/qadv-J9OhQM?si=qXwoTEWtc24FsRHN",
+            "percent": 100,
+            "hz": 0
+        },
+        {
             "user": "michaxwx",
             "link": "https://youtu.be/NEqRFSCyfzg",
             "percent": 100,
             "hz": 240
         }
-	  ]
+	]
 }
